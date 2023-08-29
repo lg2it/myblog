@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LifeOS on 槿呈Goidea</title>
+    <link>https://justgoidea.com/tags/lifeos/</link>
+    <description>Recent content in LifeOS on 槿呈Goidea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://justgoidea.com/tags/lifeos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LifeOS：我的个人管理系统</title>
+      <link>https://justgoidea.com/posts/2023-049/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-049/</guid>
+      <description>LifeOS 2.0 是一个由五个主要子系统和二十二个版块构成的个人知识管理、学习、生活和工作的全景视角。CETDE 是个人知识管理工作流模型，包括 Capture、Encode、Transfer、Distill 和 Express 五个阶段，可以直接在 LifeOS 中使用。而生活禅理念提供了一个哲学和实践框架，用以整合、应用和创新个人的知识管理全过程。</description>
+    </item>
+    
+    <item>
+      <title>Conversation with Pi （双语）</title>
+      <link>https://justgoidea.com/posts/2023-038/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-038/</guid>
+      <description>我基于 DIKW 金字塔，重新思考了两者，并终于提出了我自己的方法论，我将其称为 CETDE。为了验证我的想法，决定和之前介绍过的让我非常惊艳的聊天机器人 &lt;a
+  href=&#34;https://heypi.com/talk&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;https://heypi.com/talk&lt;/a&gt; 交流一下，看看它是怎样看待我的方法论，会向我提出哪些问题，能不能帮助我更深入地思考和完善方法论。</description>
+    </item>
+    
+    <item>
+      <title>从《心经》中学习知识管理</title>
+      <link>https://justgoidea.com/posts/2023-037/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-037/</guid>
+      <description>从《心经》的角度来看，知识管理需要认识到知识的无常和不断发展的本质，保持谦虚和开放的心态，避免对某一知识领域产生执著，具备批判和分析的知识能力，以及不断学习和实践的精神。空性智慧和般若知识观则强调开放和包容、相对和主观、非限定和非执著、批判和分析、知识的过程观、知识的整体观、知识的解脱等特征，可以帮助我们更好地理解、整合和应用知识。</description>
+    </item>
+    
+    <item>
+      <title>AI 时代写笔记的重要意义</title>
+      <link>https://justgoidea.com/posts/2023-016/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-016/</guid>
+      <description>在人工智能时代，写笔记仍然具有重要意义。人工智能工具可能会降低使用门槛，但也会提高上限，因此拥有专业知识非常重要。记录个人的想法是人工智能无法为我们做的事情。人类的直觉、创造力和道德判断仍然是不可替代的。在人工智能效率和保持认知能力之间取得平衡至关重要，写笔记可以促进我们保持批判性思维和自我意识，让我们的头脑持续敏锐。</description>
+    </item>
+    
+    <item>
+      <title>折腾笔记软件是把双刃剑：不要忽视写笔记和思考</title>
+      <link>https://justgoidea.com/posts/2023-013/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-013/</guid>
+      <description>折腾笔记软件可能会让人忽视写笔记和思考，因此在选择和使用笔记软件时需要理性思考，明确软件的主要功能是否能够满足基本需求，避免把精力和时间浪费在折腾软件上。同时，也要注意保持对写笔记、做思考这一最基本需求的关注和实践。</description>
+    </item>
+    
+    <item>
+      <title>在 Heptabase 中构建第二大脑</title>
+      <link>https://justgoidea.com/posts/2023-011/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-011/</guid>
+      <description>本文介绍了如何在 Heptabase 中构建第二大脑，包括收集有价值的内容、建立联系、创造有形的结果、使用白板进行项目和领域管理、整理日历和任务管理、发散与聚敛的思维进行创作等。Heptabase 的核心能力在于支持聚敛性思维的能力，通过双向链接、笔记库和白板等功能，帮助我们发现意想不到的联系和思维模式，提高创造力和灵感系统。</description>
+    </item>
+    
+    <item>
+      <title>拓展思维边界：用 Heptabase 建立网络化思维</title>
+      <link>https://justgoidea.com/posts/2023-007/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-007/</guid>
+      <description>网络化思维是一种非线性的二阶思考方式，强调发散和涌现，可以帮助我们超越常识性的解决方案。Heptabase 是一个很好的网络化思维工具，提供中观视角，帮助我们更深入地探究问题、概念、思路背后的逻辑，并提升解决复杂问题的效率。</description>
+    </item>
+    
+    <item>
+      <title>为什么要写笔记</title>
+      <link>https://justgoidea.com/posts/2023-002/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-002/</guid>
+      <description>写笔记的好处包括备忘、缓存、对话、交流和语言思考。笔记可以对内，也可以对外，只是呈现方式不同。数字外脑的构筑是未来的趋势，它可以存储大量信息、组织信息、帮助思考和提高记忆力。AI 可以帮助笔记软件更好地处理信息、提供个性化服务、改善用户体验等。写笔记需要建立自己的方法论，而不是围绕使用什么样的工具去构建方法论。</description>
+    </item>
+    
+    <item>
+      <title>聚焦输入，发散整理</title>
+      <link>https://justgoidea.com/posts/2022-016/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-016/</guid>
+      <description>聚焦输入模式下，我们可以将输入内容形成原子化笔记，再将其转化为卡片。在构建卡片盒时，我们需要发散整理，调动发散思维，将卡片编织成网状结构。通过这样的方式，我们可以更好地记录、整理和利用知识。</description>
+    </item>
+    
+    <item>
+      <title>用 Heptabase 实践 INKP 知识管理法</title>
+      <link>https://justgoidea.com/posts/2022-014/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-014/</guid>
+      <description>这篇文章介绍了作者如何使用 Heptabase 实践 INKP 知识管理法，构建起完整的知识体系。INKP 知识管理法的核心原则是以主题为重心，让知识流动起来。作者在 heptabase 中使用 Journal 作为 Inbox，Card 作为 Note，Whiteboard 作为 Knowledge，通过 DIKW 模型将数据提炼成智慧，形成完整的知识体系。</description>
+    </item>
+    
+    <item>
+      <title>用 Heptabase 实践间歇日记</title>
+      <link>https://justgoidea.com/posts/2022-013/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-013/</guid>
+      <description>本文介绍了间歇日记的定义和写作方式，并分享了作者如何在 heptabase 上实践间歇日记。作者使用 heptabase 的 Journal 板块记录每天的待办事项和正在做的事情，将记录的内容转换为卡片，方便日后调用。作者认为间歇日记的实践有助于抓住灵感、织结碎片化的内容、保持知识与思维的颗粒度、训练思维的逻辑性和严谨性，以及消除拖延症。</description>
+    </item>
+    
+    <item>
+      <title>我的 Heptabase 使用体验</title>
+      <link>https://justgoidea.com/posts/2022-012/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-012/</guid>
+      <description>该文章介绍了作者使用 Heptabase 的体验。Heptabase 是一个卡片笔记知识库，支持卡片和白板的创建和管理。作者使用 Heptabase 进行知识沉淀和思考，并将其与其他软件如 DEVONthink 和 Notion 进行区分。作者希望 Heptabase 能够支持移动端和 web 端，以及导入 PDF 文件等功能。</description>
+    </item>
+    
+    <item>
+      <title>用 DEVONthink 重构阅读写作流</title>
+      <link>https://justgoidea.com/posts/2022-011/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-011/</guid>
+      <description>本文介绍了作者在寻找最适合自己的稍后读和文件管理软件的过程中，最终选择了 DEVONthink 和 DEVONthink to go，并重构了自己的阅读写作流。作者认为，只有适合自己的工具才是好的工具，而工具参与流程时，不必榨干其所有效能，用好某几个方面就够了。</description>
+    </item>
+    
+  </channel>
+</rss>

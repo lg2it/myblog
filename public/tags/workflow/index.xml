@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workflow on 槿呈Goidea</title>
+    <link>https://justgoidea.com/tags/workflow/</link>
+    <description>Recent content in workflow on 槿呈Goidea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://justgoidea.com/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【授权转载】从阅读中获取知识的最好方式</title>
+      <link>https://justgoidea.com/posts/2023-050/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-050/</guid>
+      <description>本文介绍了一种从阅读中获取知识的最好方式，即将书中的重要段落拆解成更小的概念，并将这些概念之间的关联性画出来，最后将相似的概念群组起来。通过这个过程，建立知识架构，给每张卡片和 Section 下标题所投入的思考过程，才能真正理解和洞察知识。最后，建议采用间隔式复习法来留存这些知识，并强调工具选择的重要性。</description>
+    </item>
+    
+    <item>
+      <title>在 Heptabase 中构建第二大脑</title>
+      <link>https://justgoidea.com/posts/2023-011/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-011/</guid>
+      <description>本文介绍了如何在 Heptabase 中构建第二大脑，包括收集有价值的内容、建立联系、创造有形的结果、使用白板进行项目和领域管理、整理日历和任务管理、发散与聚敛的思维进行创作等。Heptabase 的核心能力在于支持聚敛性思维的能力，通过双向链接、笔记库和白板等功能，帮助我们发现意想不到的联系和思维模式，提高创造力和灵感系统。</description>
+    </item>
+    
+    <item>
+      <title>2022 年那些工作流中的好工具</title>
+      <link>https://justgoidea.com/posts/2023-001/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-001/</guid>
+      <description>介绍了作者在2022年使用的一些工具，包括Inoreader、Readwise Reader、Readwise、DEVONthink、Eagle、Notion、Heptabase、Obsidian、石墨文档、Draw.io和Shottr。这些工具被用于吸收、整理、输出、分享、归档、回顾、沟通和协作等多个方面。</description>
+    </item>
+    
+    <item>
+      <title>聚焦输入，发散整理</title>
+      <link>https://justgoidea.com/posts/2022-016/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-016/</guid>
+      <description>聚焦输入模式下，我们可以将输入内容形成原子化笔记，再将其转化为卡片。在构建卡片盒时，我们需要发散整理，调动发散思维，将卡片编织成网状结构。通过这样的方式，我们可以更好地记录、整理和利用知识。</description>
+    </item>
+    
+    <item>
+      <title>用 Heptabase 实践 INKP 知识管理法</title>
+      <link>https://justgoidea.com/posts/2022-014/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-014/</guid>
+      <description>这篇文章介绍了作者如何使用 Heptabase 实践 INKP 知识管理法，构建起完整的知识体系。INKP 知识管理法的核心原则是以主题为重心，让知识流动起来。作者在 heptabase 中使用 Journal 作为 Inbox，Card 作为 Note，Whiteboard 作为 Knowledge，通过 DIKW 模型将数据提炼成智慧，形成完整的知识体系。</description>
+    </item>
+    
+    <item>
+      <title>用 DEVONthink 重构阅读写作流</title>
+      <link>https://justgoidea.com/posts/2022-011/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-011/</guid>
+      <description>本文介绍了作者在寻找最适合自己的稍后读和文件管理软件的过程中，最终选择了 DEVONthink 和 DEVONthink to go，并重构了自己的阅读写作流。作者认为，只有适合自己的工具才是好的工具，而工具参与流程时，不必榨干其所有效能，用好某几个方面就够了。</description>
+    </item>
+    
+  </channel>
+</rss>
