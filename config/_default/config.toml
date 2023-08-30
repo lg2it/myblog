@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 theme = "congo"
 baseURL = "https://justgoidea.com/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 
 enableRobotsTXT = true
 paginate = 10
@@ -14,6 +14,3 @@ summaryLength = 140
   [outputFormats.Atom]
     mediatype = "application/rss"
     baseName = "atom"
-
-[params]
-  cusdisId = "7881178e-e7d8-427a-af06-d6f69f7fe105d"
