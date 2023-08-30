@@ -45,10 +45,10 @@ fingerprintAlgorithm = "sha256"
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
   showTaxonomies = true
-  showWordCount = true
+  showWordCount = false
   showComments = true
   # sharingLinks = ["twitter", "telegram", "email"]
 
@@ -71,7 +71,7 @@ fingerprintAlgorithm = "sha256"
   # domain = "llama.yoursite.com"
 
 [verification]
-  # google = ""
+  google = "G-08C6V2Q0KL"
   # bing = ""
   # pinterest = ""
   # yandex = ""
