@@ -23,7 +23,7 @@ draft: false
 
 ## 订阅
 
-您可以前往 [https://letters.justgoidea.com](https://letters.justgoidea.com)订阅，或者直接在下方输入您的 email 订阅。
+您可以前往  [https://letters.justgoidea.com](https://letters.justgoidea.com) 订阅，或者直接在下方输入您的 email 订阅。
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/justgoidea"
@@ -31,11 +31,26 @@ draft: false
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/justgoidea', 'popupwindow')"
   class="embeddable-buttondown-form"
+  style="width: 100%;"
 >
   <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
+  <input type="email" name="email" id="bd-email" class="email-input"
+    style="width: 100%;
+           border: 1px solid #ccc;
+           padding: 12px 20px;
+           margin: 8px 0;
+           box-sizing: border-box;"
+  />
 
-  <input type="submit" value="Subscribe" />
+  <input type="submit" value="Subscribe" class="submit-button"
+    style="width: 100%;
+           background-color: #2775b6;
+           color: white;
+           padding: 14px 20px;
+           margin: 8px 0;
+           border: none;
+           cursor: pointer;"
+  />
   <p>
     <a href="https://buttondown.email/refer/justgoidea" target="_blank">Powered by Buttondown.</a>
   </p>
