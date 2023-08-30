@@ -42,15 +42,7 @@ draft: false
            box-sizing: border-box;"
   />
 
-  <input type="submit" value="Subscribe" class="submit-button"
-    style="width: 100%;
-           background-color: #2775b6;
-           color: white;
-           padding: 14px 20px;
-           margin: 8px 0;
-           border: none;
-           cursor: pointer;"
-  />
+  <input type="submit" value="Subscribe" />
   <p>
     <a href="https://buttondown.email/refer/justgoidea" target="_blank">Powered by Buttondown.</a>
   </p>
