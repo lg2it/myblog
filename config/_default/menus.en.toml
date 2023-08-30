@@ -41,5 +41,5 @@
 
  [[footer]]
    name = "RSS"
-   url = "https://justgoidea.com/index.xml"
+   url = "https://justgoidea.com/atom.xml"
    weight = 10
