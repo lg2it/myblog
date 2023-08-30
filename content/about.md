@@ -15,7 +15,7 @@ layout: "simple"
  - Logo：`https://cos.hhzz.love/justgoidea/favicon.png`
  - Description：`读书｜新知｜生活禅`
  - Copyright：槿呈Goidea by 樹程Leslie is licensed under [a Creative Commons BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
- - DNS & CDN with [Cloudflare](https://www.cloudflare.com/)
+ - Hosting & DNS & CDN with [Cloudflare](https://www.cloudflare.com/)
  - You can find the change log of this site in [Change Log](https://justgoidea.com/changelog).
  - You can check the online status of all my services [here](https://monitor.hhzz.plus/status/public).
  - 为了防止意外情况发生，我在区块链博客 [xLog](https://xlog.app/) 也开了同名博客 [槿呈Goidea（xLog）](https://xlog.justgoidea.com)，会同步更新。
