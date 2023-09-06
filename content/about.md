@@ -25,7 +25,7 @@ layout: "simple"
 
  ## About Me
 
- 🌈 INTP｜🧘‍♂️ Buddhist｜🎬Producer
+ 🌈 INTJ｜🧘‍♂️ Buddhist｜🎬Producer
 
  因一念有无数生灭，而仿佛无处可逃。由是，心无放逸，不失众善。
 
