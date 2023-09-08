@@ -38,3 +38,16 @@ layout: "simple"
  Youtube：[槿呈Goidea](https://www.youtube.com/@justgoidea)
 
  ## Friend Link
+
+ - [积薪](https://firewood.news/)
+ - [友人C](https://www.ihewro.com/)
+ - [SunPam](https://sunpma.com/)
+ - [山葵酱](https://wasabi.fun/)
+ - [邓邓的流水账](https://xhhdd.cc/)
+ - [Pin起来](https://pinchlime.com/)
+ - [DIYgod](https://diygod.cc/)
+ - [Owen](https://www.owenyoung.com/)
+ - [hyuanverse](https://hyuanverse.com/)
+ - [印记](https://yinji.org/)
+ - [Pseudoyu](https://www.pseudoyu.com/zh/)
+ - [VeryJack](https://veryjack.com/)
