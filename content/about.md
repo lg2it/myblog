@@ -12,7 +12,7 @@ layout: "simple"
 
  - Title：`槿呈Goidea`
  - URL：`https://justgoidea.com`
- - Logo：`https://cos.hhzz.love/justgoidea/favicon.png`
+ - Logo：`https://cos.justgoidea.com/justgoidea/favicon.png`
  - Description：`读书｜新知｜生活禅`
  - Copyright：槿呈Goidea by 樹程Leslie is licensed under [a Creative Commons BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
  - Hosting & DNS & CDN with [Cloudflare](https://www.cloudflare.com/)
