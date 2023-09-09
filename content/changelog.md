@@ -6,6 +6,10 @@ slug: "changelog"
 layout: "simple"
 ---
 
+## 2023-09-09
+
+- 将评论系统从 utterances 改为 [twikoo](https://twikoo.js.org/)，并配置 telegram 提醒。
+
 ## 2023-09-08
 
 - 修改 About 页面
@@ -18,4 +22,4 @@ layout: "simple"
 
 ## 2023-08-29
 
-在本地创建 Hugo blog，并使用 [Congo](https://jpanther.github.io/congo/) 模板。
+- 在本地创建 Hugo blog，并使用 [Congo](https://jpanther.github.io/congo/) 模板。
