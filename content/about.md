@@ -44,6 +44,7 @@ layout: "simple"
  - [SunPam](https://sunpma.com/)
  - [山葵酱](https://wasabi.fun/)
  - [邓邓的流水账](https://xhhdd.cc/)
+ - [炜晨](https://weichen.blog/cn/)
  - [Pin起来](https://pinchlime.com/)
  - [DIYgod](https://diygod.cc/)
  - [Owen](https://www.owenyoung.com/)
