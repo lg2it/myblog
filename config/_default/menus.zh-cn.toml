@@ -19,6 +19,7 @@
   name = "Newsletter"
   pageRef = "newsletter"
   weight = 20
+
 [[main]]
   name = "About"
   pageRef = "about"
@@ -43,3 +44,8 @@
    name = "RSS"
    url = "https://justgoidea.com/atom.xml"
    weight = 10
+
+[[footer]]
+  name = "EN"
+  url = "https://en.justgoidea.com"
+  weight = 20

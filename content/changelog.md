@@ -6,6 +6,10 @@ slug: "changelog"
 layout: "simple"
 ---
 
+## 2023-10-04
+
+- 为博客增加[英语版本](https://en.justgoidea.com)
+
 ## 2023-09-09
 
 - 将评论系统从 utterances 改为 [twikoo](https://twikoo.js.org/)，并配置 telegram 提醒。

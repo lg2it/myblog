@@ -18,6 +18,7 @@ layout: "simple"
  - Hosting & DNS & CDN with [Cloudflare](https://www.cloudflare.com/)
  - You can find the change log of this site in [Change Log](https://justgoidea.com/changelog).
  - You can check the online status of all my services [here](https://monitor.hhzz.plus/status/public).
+ - You can find the English version [here](https://en.justgoidea.com)
  - 为了防止意外情况发生，我在区块链博客 [xLog](https://xlog.app/) 也开了同名博客 [槿呈Goidea（xLog）](https://xlog.justgoidea.com)，会同步更新。
  - 如果您愿意给我打赏或赞助我写下去，欢迎订阅我的[付费专栏](https://xiaobot.net/p/ywkh?refer=59b4c4c8-52a3-4dd4-b54b-1a81d7a4fb18&utm_source=justgoidea&utm_medium=email)。
 
