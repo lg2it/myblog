@@ -6,6 +6,10 @@ slug: "changelog"
 layout: "simple"
 ---
 
+## 2023-10-11
+
+- 导航栏增加 [Note](https://note.justgoidea.eu.org)
+
 ## 2023-10-04
 
 - 为博客增加[英语版本](https://en.justgoidea.com)

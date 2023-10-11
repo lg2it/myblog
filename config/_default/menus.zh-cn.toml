@@ -21,7 +21,7 @@
   weight = 20
 
 [[main]]
-  name = "Note"
+  name = "Notes"
   url = "https://note.justgoidea.eu.org"
   weight = 30
 
