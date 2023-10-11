@@ -34,7 +34,7 @@ layout: "simple"
 
  Twitter：[@lgtwet](https://twitter.com/lgtwet)
 
- Telegram Chanel: [槿呈Goidea](https://t.me/justgoidea)
+ Telegram Channel: [槿呈Goidea](https://t.me/justgoidea)
 
  Youtube：[槿呈Goidea](https://www.youtube.com/@justgoidea)
 
