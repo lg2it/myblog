@@ -7,7 +7,7 @@ tags:
   - "tech"
 summary: "通过宝塔面板快速部署 TiddlyWiki"
 ---
-![DALL-EDigitalWorkspace](https://cos.justgoidea.com/justgoidea/uPic/2023/10/14/DALL-E%20Digital%20Workspace.png)
+![feature](https://cos.justgoidea.com/justgoidea/uPic/2023/10/14/DALL-E%20Digital%20Workspace.png)
 
 部署 Node.js 版 TiddlyWiki 并不复杂。不过在部署之前，需要完成一些准备工作。
 
