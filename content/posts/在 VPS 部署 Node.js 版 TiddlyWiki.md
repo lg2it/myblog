@@ -96,7 +96,7 @@ summary: "通过宝塔面板快速部署 TiddlyWiki"
 
 接下来，其他的步骤保持不变，仅对`步骤四：配置 PM2 管理器`进行修改。
 
-首先，在 SSH 中输入 `chmod +x /www/wwwroot/note.lesliegou.com/start-wiki.sh`，为 `start-wiki.sh`添加执行权限。
+首先，在 SSH 中输入 `chmod +x /www/wwwroot/您的域名/start-wiki.sh`，为 `start-wiki.sh`添加执行权限。
 
 然后输入 `pm2 start /www/wwwroot/您的域名/start-wiki.sh --name "tiddlywiki"`
 
