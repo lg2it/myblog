@@ -109,6 +109,7 @@
   {{/* Analytics */}}
   {{ partial "analytics.html" . }}
   {{/* Extend head - eg. for custom analytics scripts, etc. */}}
+  <script src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="5afbfb13-46ba-40e2-ad84-169d70f9387b" async></script>
   {{ if templates.Exists "partials/extend-head.html" }}
     {{ partial "extend-head.html" .Site }}
   {{ end }}
