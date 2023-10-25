@@ -30,13 +30,15 @@ layout: "simple"
 
  因一念有无数生灭，而仿佛无处可逃。由是，心无放逸，不失众善。
 
- Email：me@hhzz.top
+ Email: me@hhzz.top
+ 
+ Evergreen Note: [樹程Leslie的常青笔记](https://note.justgoidea.com)
 
- Twitter：[@lgtwet](https://twitter.com/lgtwet)
+ Twitter: [@lgtwet](https://twitter.com/lgtwet)
 
  Telegram Channel: [槿呈Goidea](https://t.me/justgoidea)
 
- Youtube：[槿呈Goidea](https://www.youtube.com/@justgoidea)
+ Youtube: [槿呈Goidea](https://www.youtube.com/@justgoidea)
 
  ## Friend Link
 

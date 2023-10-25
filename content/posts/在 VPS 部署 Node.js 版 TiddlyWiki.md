@@ -35,7 +35,7 @@ summary: "通过宝塔面板快速部署 TiddlyWiki"
 
 首先，在 SSH 中输入 `cd /www/wwwroot/您的域名` 。
 
-然后输入 `tiddlywiki mywiki –init server`。
+然后输入 `tiddlywiki mywiki --init server`。
 
 这样，就在 `/www/wwwroot/您的域名` 中新建了一个 `mywiki` 文件夹，并部署了 TiddlyWiki。
 
