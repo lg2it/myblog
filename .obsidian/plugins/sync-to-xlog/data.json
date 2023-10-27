@@ -1,0 +1,14 @@
+{
+  "enable": true,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiMHgwNTYyZmFmZTA5ZjdhYzMyMTlmMmFjZTdlZTIyZjIyMGI0NzhhNjE4IiwiaWF0IjoxNjkxODQzNTI3LCJleHAiOjIwMDcyMDM1Mjd9.a3vNpbOGXNavJoBRAEp4otlka5pjWs1NS7y_BWZ6vPo",
+  "charactorID": 51683,
+  "autoUpload": true,
+  "debugger": false,
+  "isMultiCharactor": false,
+  "charactorList": [
+    {
+      "name": "justgoidea(51683)",
+      "value": 51683
+    }
+  ]
+}

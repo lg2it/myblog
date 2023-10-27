@@ -1,3 +1,14 @@
 {
-  "accentColor": ""
+  "accentColor": "#4d25d0",
+  "cssTheme": "Minimal",
+  "textFontFamily": "LXGW WenKai",
+  "baseFontSize": 16,
+  "theme": "system",
+  "monospaceFontFamily": "LXGW WenKai",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "codeblock",
+    "inline"
+  ],
+  "interfaceFontFamily": "LXGW WenKai"
 }
