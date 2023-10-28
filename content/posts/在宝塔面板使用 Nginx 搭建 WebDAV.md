@@ -21,11 +21,11 @@ summary: "在 VPS 上搭建 WebDAV，为 DEVONthink 打造多端同步。"
 
 可以在 SSH 中使用 `nginx -V` 命令查询是否有安装 `http_dav_module` 模块。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/oJy6Rg.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/oJy6Rg.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/oJy6Rg.png)
 
 如果没有看到 `http_dav_module` 模块，就需要卸载 Nginx 后重新选择编译安装并添加自定义模块。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/hwYfW9.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/hwYfW9.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/hwYfW9.png)
 
 按照下面的内容填写自定义模块：
 
@@ -42,7 +42,7 @@ summary: "在 VPS 上搭建 WebDAV，为 DEVONthink 打造多端同步。"
 
 然后在网站目录中开启密码访问，设置好自己的账户及密码。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/ohv1oE.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/ohv1oE.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/ohv1oE.png)
 
 最后前往网站设置选择配置文件，在最后面 `}` 符号之前粘贴以下设置代码：
 
@@ -59,7 +59,7 @@ create_full_put_path  on;
 }
 ```
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/Bsf9yU.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/Bsf9yU.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/Bsf9yU.png)
 
 修改完成后保存即可。
 
@@ -71,8 +71,8 @@ create_full_put_path  on;
 
 在 DEVONthink 中设置了 WebDAV 同步。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/uZGnSk.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/uZGnSk.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/uZGnSk.png)
 
 在浏览器中打开搭建好的 WebDAV 网站。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/V5W4y2.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/V5W4y2.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/V5W4y2.png)

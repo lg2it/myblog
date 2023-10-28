@@ -11,7 +11,7 @@ summary: "本文探讨了写博客和写推文的优劣和选择，指出两者�
 
 今天看到有网友在 Twitter 上发了这样一则帖子：
 
-![tweets via @BaibanbaoNet](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/16/b7Tjs3.png)
+![tweets via @BaibanbaoNet](https://cos.justgoidea.com/justgoidea/uPic/2023/06/16/b7Tjs3.png)
 
 tweets via @BaibanbaoNet
 
@@ -21,7 +21,7 @@ tweets via @BaibanbaoNet
 
 可能有些 blogger 会说，看看马一龙同志接掌 Twitter 之后那些骚操作，写博客，尤其是独立博客，数据可以掌握在自己手里。
 
-![pic via [https://twitter.com/lelefarley/satus/1663965782513192961?s=20](https://twitter.com/lelefarley/satus/1663965782513192961?s=20)](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/16/Dy22Uo.jpg)
+![pic via [https://twitter.com/lelefarley/satus/1663965782513192961?s=20](https://twitter.com/lelefarley/satus/1663965782513192961?s=20)](https://cos.justgoidea.com/justgoidea/uPic/2023/06/16/Dy22Uo.jpg)
 
 pic via [https://twitter.com/lelefarley/satus/1663965782513192961?s=20](https://twitter.com/lelefarley/satus/1663965782513192961?s=20)
 

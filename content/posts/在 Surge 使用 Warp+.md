@@ -32,7 +32,7 @@ brew --version
 
 如下图红框中所示，我的电脑上 Homebrew 的版本为 4.0.14。如果没有显示红框中的内容，则正面您的电脑上没有安装 Homebrew。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/cLbI8x.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/cLbI8x.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/cLbI8x.png)
 
 安装 Homebrew，是在 Terminal 中输入如下代码：
 
@@ -44,7 +44,7 @@ brew --version
 
 如果安装完毕后出现如下代码，是因为虽然 Homebrew 已经成功安装在您的 macOS 上了。但是，由于 **`/opt/homebrew/bin`** 目录尚未添加到您的 PATH 环境变量中，因此您需要按照以下步骤配置您的 shell 以使用 Homebrew。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/UJ8rDT.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/UJ8rDT.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/UJ8rDT.png)
 
 此时您需要在 Terminal 中输入如下代码：
 
@@ -74,7 +74,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 接下来用文本编辑器打开这个文件，将其中的 license key 替换成您在步骤二中申请到的 Key，并保存文件。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/JOCvpQ.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/JOCvpQ.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/JOCvpQ.png)
 
 保存好后，再到 Terminal 中输入 `wgcf update` 并运行，此时配置文件就更新了。
 
@@ -88,7 +88,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 根据下图将 `wgcf-profile.conf` 中的内容按照下图所示填入 Surge 中即可。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/zUflhd.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/zUflhd.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/zUflhd.png)
 
 ## Reference
 

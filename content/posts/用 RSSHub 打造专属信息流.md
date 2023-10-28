@@ -7,7 +7,7 @@ tags: ["tech"]
 summary: "本文介绍了如何使用RSSHub打造自己的信息流。可以通过Zeabur、Vercel或Docker部署RSSHub，然后使用已经制作好的路由订阅各种信息源，如新闻、社交、视频、购物、娱乐等。同时，本文还提供了一个理想化的RSS信息流列表和两篇外链文章，供读者参考。"
 ---
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/5uJoIm.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/5uJoIm.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/5uJoIm.png)
 
 针对 GFW 的限制，大量网站在中国大陆无法正常访问。这导致许多用户必须使用代理工具上网。然而，如果您某些时候无法方便地使用这些工具，那么如何获取和阅览 GFW 屏蔽的网站内容呢？RSSHub 提供了一种优雅的解决方案。
 
@@ -21,33 +21,33 @@ RSSHub 是由 [DIYgod](https://twitter.com/DIYgod) 领导的开源项目，它�
 
 首先，用浏览器打开 [GitHub 官网](https://github.com/)（如果打不开页面，请先开代理工具后刷新重试），然后点击屏幕右上角的 `Sign UP` 进行注册。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/ienEwp.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/ienEwp.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/ienEwp.png)
 
 接下来依次输入您的邮箱地址（email）、密码（password）、用户名（username），是否订阅产品信息（填 `y` 表示订阅，填 `n` 表示不订阅）等。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/pWvPR4.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/pWvPR4.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/pWvPR4.png)
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/K8BBTE.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/K8BBTE.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/K8BBTE.png)
 
 接下来点击 `Verify` 进行真人验证（如下图所示，将右侧的照片调整为左图指向的方向），防止通过机器人恶意注册的账号。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/81rgbs.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/81rgbs.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/81rgbs.png)
 
 完成上述步骤后，就完成了账号的注册步骤。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/o8xSUa.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/o8xSUa.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/o8xSUa.png)
 
 然后，您需要在您的邮箱中找到验证码进行邮箱验证。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/qKeOXD.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/qKeOXD.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/qKeOXD.png)
 
 邮箱验证通过后，就表示您已经完成了注册。不过，您还需要告诉 GitHub 一些信息来制定收费方案，比如您是个人使用还是团队使用，您是不是学生或老师。根据您的真实状况选择即可。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/3cGZNY.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/3cGZNY.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/3cGZNY.png)
 
 之后就来到了收费方案的页面，在这里选择免费方案即可。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/3tsLqF.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/3tsLqF.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/3tsLqF.png)
 
 至此，您的 GitHub 账号就注册完毕了。
 
@@ -59,33 +59,33 @@ RSSHub 是由 [DIYgod](https://twitter.com/DIYgod) 领导的开源项目，它�
 
 首先，在 Zeabur 的[登录页面](https://dash.zeabur.com/login)使用 Github 账号进行免密登录。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/dTCZU3.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/dTCZU3.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/dTCZU3.png)
 
 登录后，在屏幕的右上角会有一个红色的标记着 7 天的提醒，点击之后，可以看到如下页面：
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/F5LooB.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/F5LooB.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/F5LooB.png)
 
 点击 `绑定付款方式` 之后，页面会自动跳转到付款信息的页面。您可以绑定信用卡，也可以选择 `没有信用卡`，然后绑定支付宝。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/UybBsb.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/UybBsb.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/UybBsb.png)
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/ATlJzz.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/ATlJzz.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/ATlJzz.png)
 
 接下来就是点击[部署到 Zeabur](https://dash.zeabur.com/templates/X46PTP)，您的浏览器会自动跳转到 Zeabur 的部署页面，点击 Deploy 即可部署。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/cZltTJ.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/cZltTJ.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/cZltTJ.png)
 
 部署成功后，您会看到如图所示的页面，表示您的 RSSHub 项目已经部署在 Zeabur。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/e8n8aV.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/e8n8aV.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/e8n8aV.png)
 
 点击项目，进入管理页面后，选择域名。如果您有域名，可以点击`自定义` 添加您自己的域名，然后到您使用的 DNS 服务商处修改 DNS；如果您没有域名，就点击 `生成域名`，Zeabur 将自动生成一个域名给您的项目。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/FhJo7h.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/FhJo7h.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/FhJo7h.png)
 
 无论用哪种域名方式，您都可以在浏览器的新标签页打开域名，如果显示以下页面，就意味着您成功部署了 RSSHub。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/LwBsTI.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/LwBsTI.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/LwBsTI.png)
 
 请注意：个人正常使用 RSSHub 基本不会产生费用，请不要泄露您部署的域名，以免造成滥用而给您带来经济损失。
 
@@ -95,19 +95,19 @@ Vercel 的部署方式和 Zeabur 大同小异，区别在于您可以不必填�
 
 没有自动更新的一键部署方式基本和 Zeabur 相同，使用 GitHub 账号免密登录 Vercel 后，点击[一键部署](https://vercel.com/import/project?template=https://github.com/DIYgod/RSSHub)，跳转到部署页面。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/yRMXMr.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/yRMXMr.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/yRMXMr.png)
 
 等待约 1 分钟左右，部署完成后，您会看到这个页面，点击 `Continue to Dashboard` 跳转到后台管理页面。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/JwbFtk.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/JwbFtk.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/JwbFtk.png)
 
 在后台管理页面，您可以看到 Vercel 已经自动为您生成了一个网址，点击这个网站如果显示的是 RSSHub 的页面，就证明已经成功部署。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/9gCx8l.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/9gCx8l.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/9gCx8l.png)
 
 如果您想使用自定义域名，可以在项目的设置中添加。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/viHm9t.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/viHm9t.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/viHm9t.png)
 
 ## 手动部署 RSSHub 到 Vercel （推荐）
 
@@ -119,23 +119,23 @@ Vercel 的部署方式和 Zeabur 大同小异，区别在于您可以不必填�
 
 然后先点击 `Starred` 收藏这个代码仓库，再点击 `Fork` 创建代码分支到您的账号中。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/z4aIgi.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/z4aIgi.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/z4aIgi.png)
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/2XvhCs.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/2XvhCs.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/2XvhCs.png)
 
 之后，您就会在您自己的账号中看到已经 Fork 的代码。
 
 然后在 GitHub 中安装 [Pull](https://github.com/apps/pull) 应用，点击 `install`，就可自动安装。这个应用会帮助您定期自动更新代码。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/O9UbDV.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/O9UbDV.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/O9UbDV.png)
 
 接着，打开 Vercel，选择 `Add New`，然后选择 `Project`。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/7BvYLP.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/7BvYLP.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/7BvYLP.png)
 
 选择您刚刚 Fork 过的 RSSHub 代码，选择 `import`。剩下的步骤就和之前一键部署时一样了。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/vrZm5G.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/vrZm5G.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/vrZm5G.png)
 
 ## 通过 Docker 部署 RSSHub
 
@@ -212,7 +212,7 @@ docker run -d --name rsshub -p 1200:1200 diygod/rsshub
 
 此时，您就可以在标签页打开 `http://VPS_IP:1200` ，如果显示 RSSHub 页面则表示部署成功。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/9gCx8l.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/14/9gCx8l.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/9gCx8l.png)
 
 接着，您可以设置反向代理，为其添加域名。
 

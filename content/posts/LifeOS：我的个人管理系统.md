@@ -17,13 +17,13 @@ summary: "LifeOS 2.0 是一个由五个主要子系统和二十二个版块构�
 
 LifeOS 是一种全面的个人知识管理理论和实践方法，是将净慧老和尚提出的生活禅理念运用在个人知识管理中的生动实践。它的目标是让个人能够在人工智能的时代里，高效地收集、整理、应用和创新各种知识，从而达到「禅」的境界，享受「禅」的妙用。它的核心思想是通过系统化的方式管理我们的知识，生活和工作，以实现最大的效率和创新性，使我们的身心处于健康的水平。
 
-![LifeOS 1.0 ©樹程Leslie](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/23/LifeOS_1.0.png)
+![LifeOS 1.0 ©樹程Leslie](https://cos.justgoidea.com/justgoidea/uPic/2023/06/23/LifeOS_1.0.png)
 
 LifeOS 1.0 ©樹程Leslie
 
 2.0 版本的 LifeOS 和 1.0 版本相比，将第二大脑从辅助系统中移出，置于输出系统和生活系统之间，成为了一个完全独立的子系统。至此，LifeOS 2.0 版本由五个主要的子系统构成，涵盖了二十二个版块，这些子系统和版块共同构成了一个人的知识管理、学习、生活和工作的全景视角。并且，通过系统化的方式，帮助我们更好地管理和利用自己的知识和能力，以实现更高的生活质量和工作效率。
 
-![LifeOS 2.0 ©樹程Leslie](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/23/LifeOS_2.0.png)
+![LifeOS 2.0 ©樹程Leslie](https://cos.justgoidea.com/justgoidea/uPic/2023/06/23/LifeOS_2.0.png)
 
 LifeOS 2.0 ©樹程Leslie
 
@@ -71,12 +71,12 @@ CETDE 为我们提供了一个清晰的框架，用以处理我们日常接触�
 
 ## **生活禅理念的运用**
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/06/16/jie-ping20220616-205418.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/06/16/jie-ping20220616-205418.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/06/16/jie-ping20220616-205418.png)
 
 以「觉悟人生，奉献人生」为宗旨的「生活禅」理念是我的师公净慧长老在 1992 年提出的。老和尚说曾[说](http://chan.bailinsi.net/2016/3/2016301.htm)：
 
 > 我们要把人生的正确修养看得重于物质生活，要把迷失的生活逐步自觉主动地转变为觉悟的生活，要把染污的生活逐步转化为净化的生活，要把凡夫的生活逐步转化为圣者的生活。这就是生活禅。
-> 
+>
 
 在知识管理的角度，尤其是从 LifeOS 的视角，「生活禅」的理念提供了一个有力的哲学和实践框架，用以整合、应用和创新个人的知识管理全过程，也都在引导我们如何更好地理解、接纳和创新我们的知识和经验。
 

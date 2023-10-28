@@ -48,7 +48,7 @@ Notion AI 基于 OpenAI 提供的 GPT-3 模型，经过 Notion 专门的训练�
 
 目前 OpenCat 提供三个版本，免费版和 Pro 版均需要提供 OpenAI 的 API Key，Cloud 订阅版则无需。具体功能可见下图。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/9FMxiY.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/9FMxiY.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/9FMxiY.png)
 
 ## [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension) 和 [ChatHub](https://github.com/chathub-dev/chathub)
 
@@ -65,20 +65,20 @@ Notion AI 基于 OpenAI 提供的 GPT-3 模型，经过 Notion 专门的训练�
 ChatHub 现在支持三合一和四宫格模式了。
 
 - 如果习惯用中文写 prompt，可以用三合一模式，ChatGPT、New Bing 和 Claude 都支持中文。
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/CYQpTQ.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/CYQpTQ.png)
-    
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/CYQpTQ.png)
+
 - 如果习惯用英文写 prompt，可以选四宫格模式。
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/YFm9VI.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/YFm9VI.png)
-    
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/YFm9VI.png)
+
 </aside>
 
 ## ChatGPT Plus
 
 从 ChatGPT Plus 推出时我就订阅了，真的是非常好用。比起非 Plus 版本响应速度快了很多，而且比起使用 GPT-4 的 API，还不需要担心费用问题。虽然每 3 个小时只能和 GPT-4 进行 25 次对话，勉强够用了。最近，又推出了 GPT-4 with browsing 的 Alpha 版，可以联网了。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/32ScS5.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/32ScS5.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/32ScS5.png)
 
 然而，这个联网功能和早先推出的 GPT-3.5 with browsing 一样，都不好用。
 
@@ -95,6 +95,6 @@ ChatHub 现在支持三合一和四宫格模式了。
 - 同样是 $20 USD 一个月，Poe 不仅可以使用 ChatGPT 和 GPT-4，还可以使用 Claude+ 和 Claude-instant，性价比要比 ChatGPT Plus 高。
 - 与 ChatGPT Plus 使用 GPT-4 的限制不同，在 Poe 使用 GPT-4 是每月 600 条，而使用 Claude+ 则是每月 1,000 条。超过了则是进行降速，并不会不能使用。
 - 其他的机器人随便使用，没有任何限制。
-- 
+-
 
 以上就是我使用的 AI 工具介绍，希望对您有所帮助。

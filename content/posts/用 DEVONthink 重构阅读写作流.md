@@ -47,13 +47,13 @@ Wallabag 是开源的，可以自建到个人服务器上，可是使用体验�
 
 在之前，使用 Cubox 的时候，我的 workflow 是这样的：
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/09/631b3ac054339.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/09/631b3ac054339.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/09/09/631b3ac054339.png)
 
 从这个流程图就可以看出来，我平常的阅读来源还是比较多的，但实际上，除了部分 RSS Feed 和几个高质量的 Newsletter 只要更新了我就会阅读之外，剩下的也都是快速浏览一下，感觉有用的先 drop 到 Cubox 里再说。只有少量内容可以走到最后。
 
 现在，通过 DEVONthink 重构 flow 之后，流程变成了这样：
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/09/631b4ca9d3104.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/09/631b4ca9d3104.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/09/09/631b4ca9d3104.png)
 
 是不是感觉我只是用 DEVONthink 取代了 Cubox，将 heptabase 前置替换 flomo？
 

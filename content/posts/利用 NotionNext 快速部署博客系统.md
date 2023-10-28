@@ -11,7 +11,7 @@ NotionNext是Tangly1024开源在[Github](https://github.com/tangly1024/NotionNex
 
 只需要几分钟的时间，您就可以获得一个美观的博客界面👇：
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c59f117c1.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c59f117c1.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/07/17/62d3c59f117c1.png)
 
 Tangly1024一直在对这个开源项目进行维护，从2021年下半年截至本篇发稿时已经至少维护了35个版本，可见作者的用心。
 
@@ -77,25 +77,25 @@ NotionNext是基于[craigary](https://github.com/craigary/nobelium)的[Nobelium�
 🎨 **支持多主题切换**
 
 - [Next 主题](https://preview.tangly1024.com/?theme=next)
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5ad16327.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5ad16327.png)
-    
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2022/07/17/62d3c5ad16327.png)
+
 - [Medium 主题](https://preview.tangly1024.com/?theme=medium)
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5b4d4037.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5b4d4037.png)
-    
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2022/07/17/62d3c5b4d4037.png)
+
 - [Hexo 主题](https://preview.tangly1024.com/?theme=hexo)
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5ba882bd.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5ba882bd.png)
-    
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2022/07/17/62d3c5ba882bd.png)
+
 - [Fukasawa 主题](https://preview.tangly1024.com/?theme=fukasawa)
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5c3a4d27.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5c3a4d27.png)
-    
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2022/07/17/62d3c5c3a4d27.png)
+
 - [Example 主题](https://preview.tangly1024.com/?theme=example)
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5c9cdc76.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5c9cdc76.png)
-    
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2022/07/17/62d3c5c9cdc76.png)
+
 
 ## 开始部署
 
@@ -105,39 +105,39 @@ NotionNext的部署方式有很多，在这里我推荐通过Vercel一键部署�
 
 1. 注册[Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)账号
 2. 打开[这个 Notion 模板](https://www.notion.so/02ab3b8678004aa69e9e415905ef32a5?pvs=21)后点击页面右上方的`Duplicate`将这个页面拷贝到您的Notion中，并打开`Share to web`。
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/16/62d291858c486.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/16/62d291858c486.png)
-    
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2022/07/16/62d291858c486.png)
+
 
 ### 快速部署
 
 1. 点击[快速部署链接](https://vercel.com/new/clone?demo-description=Notion)
 2. 选择用`Github`方式创建仓库，然后点击`create` 确认部署。系统将自动部署完成，约2mins。
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5d46e09f.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5d46e09f.png)
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5dc7a34c.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5dc7a34c.png)
-    
-    ![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5e228d46.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/07/17/62d3c5e228d46.png)
-    
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2022/07/17/62d3c5d46e09f.png)
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2022/07/17/62d3c5dc7a34c.png)
+
+    ![](https://cos.justgoidea.com/justgoidea/uPic/2022/07/17/62d3c5e228d46.png)
+
 3. 进入到`Vercel`的`notion-next`项目中，选择`Settings`，点击`Enviroment Variables`，填入环境变量。`NAME`中输入`NOTION_PAGE_ID`，`VALUE`中填写前期准备第二步中Notion页面分享链接中`site/`之后，`?`之前的三十二位编码（e.g https://xxx.notion.site/80c301f9f7264a4aa5dfc1f8b9841222?v=37fe9de07b164c27a9cc3a7c5614a7c4）。输入完后点击Add。
 4. 进入到您的`Github`仓库，找到**您自己的**`NotionNext`项目，打开`blog.config.js`，按照文件中的注释开始编辑您的网站信息。
-    
+
     <aside>
     ⚠️ 第5行，网站地址先使用您在准备工作第二步中的Notion页面地址
-    
+
     </aside>
-    
+
     <aside>
     ⚠️ 第20行，可以修改主题
-    
+
     </aside>
-    
+
     <aside>
     ⚠️ 第62-79行，需要到https://giscus.app/中设定，设定完成后把数值相应填写即可
-    
+
     </aside>
-    
+
 5. 在Notion页面中更改您的页面标题、页面描述、页面图标，相对应的网站名称、网站描述、网站图标会自动修改。
 
 ## 自定义域名

@@ -7,7 +7,7 @@ tags: ["LifeOS"]
 summary: "本文介绍了间歇日记的定义和写作方式，并分享了作者如何在 heptabase 上实践间歇日记。作者使用 heptabase 的 Journal 板块记录每天的待办事项和正在做的事情，将记录的内容转换为卡片，方便日后调用。作者认为间歇日记的实践有助于抓住灵感、织结碎片化的内容、保持知识与思维的颗粒度、训练思维的逻辑性和严谨性，以及消除拖延症。"
 ---
 
-在[《用 DEVONthink 重构阅读写作流》](https://www.justgoidea.com/2022-011)和[《我的 heptabase 使用体验》](https://www.justgoidea.com/2022-012)两篇文章中，分别介绍了我是如何使用 DEVONthink 和 heptabase 来构建自己的资料馆和知识库。随着对这两款软件的重度使用，尤其是开始在 heptabase 上实践`间歇日记`后，两款软件的协同性进一步加深，也让我的数字生活更加井然有序。
+在[《用 DEVONthink 重构阅读写作流》](https://www.justgoidea.com/posts/2022-011)和[《我的 heptabase 使用体验》](https://www.justgoidea.com/posts/2022-012)两篇文章中，分别介绍了我是如何使用 DEVONthink 和 heptabase 来构建自己的资料馆和知识库。随着对这两款软件的重度使用，尤其是开始在 heptabase 上实践`间歇日记`后，两款软件的协同性进一步加深，也让我的数字生活更加井然有序。
 
 ## 什么是间歇日记
 
@@ -35,13 +35,13 @@ Heptabase 中 Journal 板块的设计初衷就是让我们在最短的时间内�
 
 每天我打开电脑后，heptabase 就保持着始终打开的状态，由于 Journal 本身就固定了日期作为标题，让我们可以打开即用，实现无压力记录。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/22/632bbf40d304e.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/22/632bbf40d304e.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/09/22/632bbf40d304e.png)
 
 我会首先以 To-do list 的形式梳理每天一定要完成的事项，比如，核酸检测。那么当我做完一个事项后，就会☑️标明。每天晚上看到都已经完成的 To-do，还是蛮有成就感。
 
 列完待办事项后，我就开始以时间戳为单位记录我正在做的事情，可以是看到了什么小知识，随手将其记录下来；也可以是想到了什么，在记录时，我不会思考我的想法是不是完整的，有没有逻辑，就是非常单纯的想到了什么就写下来。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/22/632bc15ec4962.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/22/632bc15ec4962.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/09/22/632bc15ec4962.png)
 
 在这张截图中，9点的时候我记录了一条与「严肃文学」有关的内容，记录完成后我直接将其转换为卡片。右侧栏的卡片界面中，还能够看到目前在 heptabase 中所有与「严肃文学」有关联的记录。这样就在写间歇日记的同时将所记录的信息、知识等内容直接串联成网，日后有需要的时候可以随时便捷调用。
 

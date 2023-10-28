@@ -11,9 +11,9 @@ summary: "在 VPS 上部署 file gallery/站点监控/memos/MTPROTO；在 uPic �
 
 ## 一、File Photo Gallery
 
-首先是做了一个[分享站](https://file.hhzz.love)，这样再写博客和 newsletter 的时候，有一些需要分享的内容（比如视频、文件）就可以直接放到这个分享站里了。
+首先是做了一个[分享站](https://file.justgoidea.eu.org)，这样再写博客和 newsletter 的时候，有一些需要分享的内容（比如视频、文件）就可以直接放到这个分享站里了。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/rtB5hS.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/rtB5hS.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/rtB5hS.png)
 
 这个分享站的部署非常简单，首先在宝塔面板上新建一个网站并设置好 DNS 解析和 SSL 证书，然后在 PHP 环境中安装 `fileinfo` 和 `exif` ，最后到网站的文件目录中上传一个从 [File Gallery 官网](https://www.files.gallery/) 下载的 `index.php` 文件就行了。
 
@@ -46,21 +46,21 @@ summary: "在 VPS 上部署 file gallery/站点监控/memos/MTPROTO；在 uPic �
 
 之后，我又在 GitHub 上看到了 [uptime-status](https://github.com/yb/uptime-status) 这个项目，可以监控部署的各个站点的运行情况。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/szGJtZ.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/szGJtZ.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/szGJtZ.png)
 
 这个项目所调用的是 [UptimeRobot](https://uptimerobot.com/) 的 API，所以先要去这个网站上注册一下，免费版的用户可以添加 50 个网站进行监控，对于绝大多数人来说足够了。
 
 **步骤一**：注册完成后点击 `+ Add New Monitor`，然后在 Monitor Type 选择 `HTTP(s)` 并填写网站名称和域名就行了。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/ZQViav.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/ZQViav.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/ZQViav.png)
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/h2etaM.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/h2etaM.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/h2etaM.png)
 
 **步骤二**：添加完需要监控的网站后，将鼠标移动到用户邮箱处，选择 My Settings，然后找到 API Settings，在 Monitor-Specific API Keys 中选择 `Show/hide it`，之后在搜索栏中`输入`刚刚添加的网站名称来获取 API Key。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/0IGa0g.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/0IGa0g.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/0IGa0g.png)
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/oAcYBV.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/oAcYBV.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/oAcYBV.png)
 
 **步骤三**：在宝塔面板中新建网站，并设置好 DNS 解析和 SSL 证书；然后到网站目录中上传并解压从 [uptime-status](https://github.com/yb/uptime-status) 下载的 `uptime-status.zip` 。
 
@@ -78,11 +78,11 @@ Flomo 是一款非常好的 app，用过的都说好。然而，flomo 因为其�
 
 首先，我觉得有很多内容不一定要写在博客里，但又需要分享出来。
 
-其次，之前是用的 Montaigne （详见：[利用 Montaigne 将备忘录变为博客](https://justgoidea.com/2022-021)）直接在苹果的备忘录中写，可是最近发现我还分享了几个备忘录给泽泽和朋友，管理起来容易和 Montaigne 搞混。
+其次，之前是用的 Montaigne （详见：[利用 Montaigne 将备忘录变为博客](https://justgoidea.com/posts/2022-021)）直接在苹果的备忘录中写，可是最近发现我还分享了几个备忘录给泽泽和朋友，管理起来容易和 Montaigne 搞混。
 
 于是，我就部署了一个高仿 flomo 的开源项目 [memos](https://github.com/usememos/memos)。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/6Xrlft.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/6Xrlft.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/6Xrlft.png)
 
 相比于 flomo，我觉得 memos 的好处在除了开源和自托管外，也在 [iOS](https://memos.moe/) 和 [macOS](https://github.com/xudaolong/memos-desktop) 上有第三方开发的 app，另外还有许多有趣的玩法，除了比较老套的如[快捷指令](https://sharecuts.cn/shortcut/12640)和 [Raycast Extension](https://www.raycast.com/JakeYu/memos)，还可以部署成[静态展示站点](https://github.com/eallion/memos.top)和[静态图片站点](https://github.com/BarryYangi/MemosGallery)。
 
@@ -112,7 +112,7 @@ docker run -d --name memos -p 5230:5230 -v ~/.memos/:/var/opt/memos ghcr.io/usem
 
 因为 R2 直接兼容 S3 所以在 uPic 可以直接在图床选项中增加 Amazon S3，然后选择自定义。服务端 URL 填写 R2 中格式为 `https://xxx.r2.cloudflarestorage.com/yourbucketname` 的 URL，可以在存储桶名称下方找到。空间名称就是存储桶的名称，Access Key 和 Secret Key 就是 R2 API 令牌中的`访问密钥 ID` 和`机密访问密钥`，域名就是自定义的存储桶域名。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/rG2keC.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/rG2keC.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/rG2keC.png)
 
 依次填写之后，点击`验证`，uPic 会自动上传一张图片，在 R2 中如果看到了图片文件，就表示配置成功，点击保存后就可以愉快地使用了。
 

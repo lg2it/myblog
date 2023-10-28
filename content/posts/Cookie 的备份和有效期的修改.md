@@ -39,22 +39,22 @@ Cookie 也就是我们常说的「饼干」，没错，就是我们吃的那个�
 
 打开 Google 并登录，然后点击 EditThisCookie 插件，就会看到这个界面
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/10/631c72b6cca3a.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/10/631c72b6cca3a.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/09/10/631c72b6cca3a.png)
 
 我们往下拉，找到 Expiration，可以看到里面显示的是中国标准时间的 Cookie 过期日期。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/10/631c73341fbcf.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/10/631c73341fbcf.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/09/10/631c73341fbcf.png)
 
 我们只需要在输入框内修改日期后，按 ✅ 就完成了 Cookie 有效期的修改。（这里建议以1年为限，也就是直接把2022改成2023即可。）
 
 之后我们点击输出按钮，更改好的 Cookie 就自动保存在我们的剪切板中，我们只需要在电脑中新建一个 txt 文档粘贴进去后保存即可。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/10/631c7416b5b5e.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/10/631c7416b5b5e.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/09/10/631c7416b5b5e.png)
 
 当下次遇到需要使用 Cookie 去打开网站的时候，将保存在 txt 文档中的内容粘贴到导入窗口后按 ✅ 即可。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/10/631c74e329b65.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/10/631c74e329b65.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/09/10/631c74e329b65.png)
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/10/631c7507206c9.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2022/09/10/631c7507206c9.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2022/09/10/631c7507206c9.png)
 
 之后刷新一下网站页面，就可以看到网站可以正常打开，并显示已登陆的状态了。

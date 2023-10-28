@@ -13,7 +13,7 @@ summary: "本文介绍了如何在 Heptabase 中构建第二大脑，包括收�
 第二大脑是一种保存并系统地提醒我们通过亲身经历获得想法，灵感，见解和联系的方法。这种方法使用现代技术和网络工具扩展我们的记忆和智慧，不仅是为了保存这些想法，而且是为了把想法变成现实。
 
 > So that you can covert knowledge into action.
-> 
+>
 
 我们管理信息的能力决定了我们的职业成功和生活质量。但由于我们消费和生产信息的速度，信息过载和信息疲劳正在使我们的智慧和生产力下降。构建第二个大脑是解决信息过载、信息疲劳以及我们在当下管理生活所面临的所有其他问题的有效方法。
 
@@ -43,21 +43,21 @@ summary: "本文介绍了如何在 Heptabase 中构建第二大脑，包括收�
 
 Tiago Forte 在 *[A Complete Guide to Tagging for Personal Knowledge Management](https://fortelabs.com/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/)* 一文中对比了知识管理中的两种结构：层级结构和网状结构。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f04a1b2f3f3.webp](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f04a1b2f3f3.webp)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f04a1b2f3f3.webp)
 
 > A hierarchy is a system of nested groups. A standard organizational chart is a hierarchy, with employees grouped into business units and departments reporting to a centralized authority. Other kinds of hierarchies include government bureaucracies, biological taxonomies, and a system of menus in a software program. Hierarchies are inherently “top-down,” in that they are designed to enable centralized control from a single, privileged position.
-> 
-> 
+>
+>
 > 层级结构是一个嵌套组的系统。一个标准的组织结构图就是一个层级结构，员工被归入业务单位和部门，向一个中央机构报告。其他类型的层级结构包括政府官僚机构、生物分类学和软件程序中的菜单系统。层级结构本质上是「自上而下」的，因为它们的设计是为了从单一的、有特权的位置实现集中控制。
-> 
+>
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f04a43f130d.webp](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f04a43f130d.webp)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f04a43f130d.webp)
 
 > A network, by contrast, has no “correct” orientation, and thus no bottom and no top. Each individual, or “node,” in a network functions autonomously, negotiating its own relationships and coalescing into groups. Examples of networks include a flock of birds, the World Wide Web, and the social ties in a neighborhood. Networks are inherently “bottom-up,” in that the structure emerges organically from small interactions without direction from a central authority.
-> 
-> 
+>
+>
 > 相比之下，网状结构没有「正确」的方向，因此没有底部和顶部。网状结构中的每个个体或节点，都在自主运作，协商自己的关系并凝聚成群体。网状结构的例子包括一群鸟、互联网和邻居的社会关系。网状结构本质上是「自下而上」的，因为它的结构是由小规模的互动有机地产生的，没有中央当局的指导。
-> 
+>
 
 在我们熟知的以第二大脑为卖点的知识管理软件中，Evernote 、OneNote 就是层级结构的代表，我们创建了众多笔记本（标签），需要花费大量的精力来组织和维护，时不时还需要思考到底应该将写下的内容放进那个笔记本中，打上什么样的标签。会降低我们的生产力和洞察力，带来额外的压力和不必要的麻烦。
 
@@ -111,10 +111,10 @@ CODE 是四个单词的首字母，分别为 Capture、Organize、Distill 和 Ex
 用 Forte 的说法，第二大脑的最终目的是：
 
 > Allow your own thinking to shine.
-> 
-> 
+>
+>
 > 让你自己的思维发光。
-> 
+>
 
 ### 3.2 人类知识工作的生命周期
 
@@ -123,10 +123,10 @@ CODE 是四个单词的首字母，分别为 Capture、Organize、Distill 和 Ex
 Alan 是这样说的：
 
 > Human knowledge work has a lifecycle: exploring → collecting → thinking → creating → sharing. For example, I explore ideas from Google and Are.na and collect valuable ones to Roam Research. I use Miro to make sense of these ideas, Notion to create content based on my thinking, Medium and Facebook to share it for others to explore.
-> 
-> 
+>
+>
 > 人类的知识工作有一个生命周期：探索→收集→思考→创造→分享。例如，我从谷歌和 [Are.na](http://are.na/) 探索想法，并收集有价值的想法到 Roam Research。我用 Miro 来理解这些想法，用 Notion 来创造基于我思考的内容，用 Medium 和 Facebook 来分享，让其他人来探索。
-> 
+>
 
 相比较于 CODE，我更倾向于使用 Alan 总结的这个流程：
 
@@ -168,7 +168,7 @@ PARA 的优点有很多，主要可以总结为以下八个：
 
 一个完整的第二大脑，共有六个组成部分，分别是笔记系统、稍后读系统、灵感系统、存储系统和日历工具、任务管理工具。这六个部分相互配合，互为表里。此处内容详见我的专栏文章[《第二大脑的六个组成部分》](https://xiaobot.net/post/63ca3011-acc3-4fee-8542-7a7ece0ad611)。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f07830d8332.jpg](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f07830d8332.jpg)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f07830d8332.jpg)
 
 我们可以将笔记系统、灵感系统、存储系统和日历工具、任务管理工具都放入 Heptabase 中。等到 Heptabase 的稍后读功能（如 Web Clipper）完善后，就可以成为一个 All in One 的第二大脑。（现阶段，Heptabase 也可以承担稍后读的任务，即将需要稍后读的内容以 PDF 的方式导入。）
 
@@ -229,19 +229,19 @@ PARA 的优点有很多，主要可以总结为以下八个：
 
 我们在 Heptabase 中可以为我们的每一个项目（无论是正在进行的还是后备的）都新建一个白板，然后将我们的行动步骤、参考资料都写成一张张卡片放进相应的白板中，再通过 Section 的功能，将它们进行区分。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f07d41cae7c.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f07d41cae7c.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f07d41cae7c.png)
 
 ### 5.2 领域
 
 在 Heptabase 中可以使用 Tags 功能，为笔记卡片打上标签，用于领域的管理。同时，双向链接也可以为卡片与卡片之间建立联系，帮助我们查阅上下文。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f081a8403e4.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f081a8403e4.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f081a8403e4.png)
 
 ### 5.3 材料
 
 将 Heptabase 与 Readwise 建立连接，我们在阅读时标注进 Readwise 的内容都会实时同步到 Heptabase。并且，我们可以直接从右侧边栏将素材卡片拉进白板中，此时白板中的素材卡片还会显示素材的原文链接。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f082d30605a.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f082d30605a.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f082d30605a.png)
 
 另外，Heptabase 的卡片中还可以插入图片、视频、PDF。
 
@@ -249,27 +249,27 @@ PARA 的优点有很多，主要可以总结为以下八个：
 
 Heptabase 的 Card Library 中会存储我们所有的卡片。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f083f848298.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f083f848298.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f083f848298.png)
 
 ## 六、灵感系统与 Heptabase
 
 得益于 Heptabase 和 Readwise 的紧密结合，我们可以将 Readwise 中存储的标注直接通过 Heptabase 进行编辑、整理。不单单是将其作为卡片，还可以将其添加进任意的白板中，利用划线、零时笔记（如红框所示，支持 markdown）等方式为我们的创意助力。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f0886a7746c.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f0886a7746c.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f0886a7746c.png)
 
 Heptabase 的白板非常的灵活，我们可以将其中的卡片任意布局，来帮助我们发掘灵感。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f08bd25bc43.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f08bd25bc43.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f08bd25bc43.png)
 
 ## 七、日历、任务管理与 Heptabase
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f089bfc179d.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f089bfc179d.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f089bfc179d.png)
 
 通过白板，建立月历、周历，我们可以很轻松地将 Heptabase 打造为日历管理工具用于追踪我们的日程安排，并进行任务管理。
 
 当我在卡片（2023年第八周 To-do List）中写下 checklist 的时候，可以直接标识出日期（如 Feb 24，2023），当我在 2 月 24 日打开 Heptabase 时，就可以在 Journal 中看到当天需要完成的任务。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f08ae881529.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f08ae881529.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f08ae881529.png)
 
 ## 八、在 Heptabase 中用发散与聚敛的思维进行创作
 
@@ -299,4 +299,4 @@ Heptabase 的核心能力就在于它支持聚敛性思维的能力，这也是�
 
 另外，我在小报童开设了一份付费专栏，专注于构建科学、可持续的个人管理与身心健康系统。目前已经更新了22篇内容，如果您有兴趣，可以尝试订阅，价格为每季度 ¥15 元。感谢您的支持！
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f0994f3ab1b.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/02/18/63f0994f3ab1b.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/02/18/63f0994f3ab1b.png)

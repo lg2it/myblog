@@ -7,7 +7,7 @@ tags: ["tech"]
 summary: "本文介绍了如何搭建 Telegram RSSbot，包括准备工作、新建机器人、获取基本信息、搭建机器人后端和订阅 RSS 等步骤。同时还介绍了如何搭建 MTPROTO 代理服务。"
 ---
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/24/8DUuBX.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/24/8DUuBX.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/24/8DUuBX.png)
 
 之前我所有的 RSS 订阅都在 Inoreader，每次打开后都是几十几百条，让我不胜其烦。原本应该简约而不简单的 RSS 阅读体验不应该是这样。
 
@@ -15,11 +15,11 @@ summary: "本文介绍了如何搭建 Telegram RSSbot，包括准备工作、新
 
 在更新之前，RSSBot 收到的消息是这样的：
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/24/cjY5do.jpg](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/24/cjY5do.jpg)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/24/cjY5do.jpg)
 
 更新后，RSSbot 收到的消息就变成了这样：
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/24/z4MOZ8.jpg](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/24/z4MOZ8.jpg)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/24/z4MOZ8.jpg)
 
 我可以直接在 Telegram 上看消息的正文了，不像之前还得点击链接，跳转到浏览器去看。太方便了，对不对？
 
@@ -185,7 +185,7 @@ MTPROTO 是 Telegram 的代理服务，在`设置-数据和存储-使用代理`�
 
 把返回的信息在 Telegram 上设置好就可以了。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/24/brexYy.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/08/24/brexYy.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/24/brexYy.png)
 
 ---
 

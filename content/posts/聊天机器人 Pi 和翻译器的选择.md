@@ -11,7 +11,7 @@ summary: "本期内容介绍了聊天机器人 Pi 和翻译器的选择。聊天
 
 昨晚睡前在 Twitter 上看到了 [Pi](https://heypi.com/talk) 这个聊天机器人，歸藏大神是这样说的：
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/7cHdZJ.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/7cHdZJ.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/7cHdZJ.png)
 
 我打开聊天界面之后，有一种使用 Typora 时开启了打字机模式的熟悉感。在和他聊了几分钟之后，我就按耐不住激动，开始给朋友们分享这个聊天机器人。
 
@@ -25,7 +25,7 @@ summary: "本期内容介绍了聊天机器人 Pi 和翻译器的选择。聊天
 
 目前市面上的翻译器有很多，我目前在用的是[彩云小译](https://fanyi.caiyunapp.com/)的浏览器拓展和 API。之所以选择彩云小译，是看中了它对翻译后的网页重新排版的能力。
 
-![https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/KaiVbc.png](https://hhzz-1300713987.cos.na-siliconvalley.myqcloud.com/2023/06/04/KaiVbc.png)
+![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/KaiVbc.png)
 
 我的目的并不是为了学习英文，而是为了更加高效地阅读长文，使用母语可以更快速地进行略读文章，抓住重点信息。这种上下排版的中英对照模式，提升效率的同时，还能让我在阅读时及时发现翻译是否有不准确、不通顺的地方。
 
