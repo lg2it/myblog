@@ -19,10 +19,9 @@ Surge 是 macOS 和 iOS 上的一款网络代理工具。
 
 ## 步骤一：安装 Homebrew
 
-<aside>
-⚠️ 要在 Surge 上使用 Warp+，因为要通过 [Homebrew](https://brew.sh/index_zh-cn) 调用 GitHub 上的 [wgfc](https://github.com/ViRb3/wgcf) 这个项目，所以要确认 macOS 已经安装了 Homebrew。
-
-</aside>
+{{< alert >}}
+要在 Surge 上使用 Warp+，因为要通过 [Homebrew](https://brew.sh/index_zh-cn) 调用 GitHub 上的 [wgfc](https://github.com/ViRb3/wgcf) 这个项目，所以要确认 macOS 已经安装了 Homebrew。
+{{< /alert >}}
 
 首先，在 macOS 中打开 Terminal （终端），然后输入以下代码，查看电脑上的 Homebrew 版本。
 
@@ -53,10 +52,9 @@ brew --version
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
-<aside>
+{{< alert >}}
 ❗ 请将代码中的 `username` 替换成您的电脑用户名。
-
-</aside>
+{{< /alert >}}
 
 之后，Homebrew 就已经在您的 macOS 中完成安装，并可以正常运行了。
 

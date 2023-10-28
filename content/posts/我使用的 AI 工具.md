@@ -7,10 +7,9 @@ tags: ["tech"]
 summary: "本文介绍了我使用的一些 AI 工具，包括 Notion AI，New Bing，OpenCat，ChatHub，ChatGPT 和 Poe 等。"
 ---
 
-<aside>
-📢 本文于 5 月 6 日更新部分内容
-
-</aside>
+{{< alert >}}
+本文于 5 月 6 日更新部分内容
+{{< /alert >}}
 
 从 11 月 17 日，Notion 宣布开始内测 Notion AI 开始，我就被慢慢训练的开始接受要想使用新产品、新工具就要先加入 waitlist。也不知道是人类在训练 AI 还是 AI 在训练人类。
 
@@ -60,8 +59,8 @@ Notion AI 基于 OpenAI 提供的 GPT-3 模型，经过 Notion 专门的训练�
 
 在 ChatHub 中使用 New Bing 需要先在 [https://www.bing.com/](https://www.bing.com/) 中登录已开通 New Bing 使用权限的账号，使用 Claude 需要先登录 [https://poe.com](https://poe.com)，需要使用 Bard 需在 [https://bard.google.com/](https://bard.google.com/) 登录已开通 Bard 权限的账号。
 
-<aside>
-🆕 **5 月 6 日更新：**
+{{< alert >}}
+**5 月 6 日更新：**
 ChatHub 现在支持三合一和四宫格模式了。
 
 - 如果习惯用中文写 prompt，可以用三合一模式，ChatGPT、New Bing 和 Claude 都支持中文。
@@ -72,7 +71,7 @@ ChatHub 现在支持三合一和四宫格模式了。
 
     ![](https://cos.justgoidea.com/justgoidea/uPic/2023/06/04/YFm9VI.png)
 
-</aside>
+{{< /alert >}}
 
 ## ChatGPT Plus
 
