@@ -17,15 +17,11 @@ summary: "LifeOS 2.0 是一个由五个主要子系统和二十二个版块构�
 
 LifeOS 是一种全面的个人知识管理理论和实践方法，是将净慧老和尚提出的生活禅理念运用在个人知识管理中的生动实践。它的目标是让个人能够在人工智能的时代里，高效地收集、整理、应用和创新各种知识，从而达到「禅」的境界，享受「禅」的妙用。它的核心思想是通过系统化的方式管理我们的知识，生活和工作，以实现最大的效率和创新性，使我们的身心处于健康的水平。
 
-![LifeOS 1.0 ©樹程Leslie](https://cos.justgoidea.com/justgoidea/uPic/2023/06/23/LifeOS_1.0.png)
-
-LifeOS 1.0 ©樹程Leslie
+![LifeOS 1.0 ©樹程Leslie](https://cos.justgoidea.com/justgoidea/uPic/2023/06/23/LifeOS_1.0.png "LifeOS 1.0 ©樹程Leslie")
 
 2.0 版本的 LifeOS 和 1.0 版本相比，将第二大脑从辅助系统中移出，置于输出系统和生活系统之间，成为了一个完全独立的子系统。至此，LifeOS 2.0 版本由五个主要的子系统构成，涵盖了二十二个版块，这些子系统和版块共同构成了一个人的知识管理、学习、生活和工作的全景视角。并且，通过系统化的方式，帮助我们更好地管理和利用自己的知识和能力，以实现更高的生活质量和工作效率。
 
-![LifeOS 2.0 ©樹程Leslie](https://cos.justgoidea.com/justgoidea/uPic/2023/06/23/LifeOS_2.0.png)
-
-LifeOS 2.0 ©樹程Leslie
+![LifeOS 2.0 ©樹程Leslie](https://cos.justgoidea.com/justgoidea/uPic/2023/06/23/LifeOS_2.0.png "LifeOS 2.0 ©樹程Leslie")
 
 LifeOS 2.0 的五个子系统和二十二个版块分别为：
 

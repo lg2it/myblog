@@ -59,7 +59,7 @@ Notion AI 基于 OpenAI 提供的 GPT-3 模型，经过 Notion 专门的训练�
 
 在 ChatHub 中使用 New Bing 需要先在 [https://www.bing.com/](https://www.bing.com/) 中登录已开通 New Bing 使用权限的账号，使用 Claude 需要先登录 [https://poe.com](https://poe.com)，需要使用 Bard 需在 [https://bard.google.com/](https://bard.google.com/) 登录已开通 Bard 权限的账号。
 
-{{< alert >}}
+{{< alert "lightbulb">}}
 **5 月 6 日更新：**
 ChatHub 现在支持三合一和四宫格模式了。
 

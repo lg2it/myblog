@@ -53,7 +53,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
 {{< alert >}}
-❗ 请将代码中的 `username` 替换成您的电脑用户名。
+请将代码中的 `username` 替换成您的电脑用户名。
 {{< /alert >}}
 
 之后，Homebrew 就已经在您的 macOS 中完成安装，并可以正常运行了。
