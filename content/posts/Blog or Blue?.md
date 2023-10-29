@@ -13,7 +13,7 @@ summary: "本文探讨了写博客和写推文的优劣和选择，指出两者�
 
 ![tweets via @BaibanbaoNet](https://cos.justgoidea.com/justgoidea/uPic/2023/06/16/b7Tjs3.png)
 
-tweets via @BaibanbaoNet
+（tweets via @BaibanbaoNet）
 
 他说的有一定道理，无论是写博客还是写 Tweets，都是一种输出和表达的方式。两者在形式上并没有太大的区别。
 
@@ -23,7 +23,7 @@ tweets via @BaibanbaoNet
 
 ![pic via [https://twitter.com/lelefarley/satus/1663965782513192961?s=20](https://twitter.com/lelefarley/satus/1663965782513192961?s=20)](https://cos.justgoidea.com/justgoidea/uPic/2023/06/16/Dy22Uo.jpg)
 
-pic via [https://twitter.com/lelefarley/satus/1663965782513192961?s=20](https://twitter.com/lelefarley/satus/1663965782513192961?s=20)
+（pic via [https://twitter.com/lelefarley/satus/1663965782513192961?s=20](https://twitter.com/lelefarley/satus/1663965782513192961?s=20)）
 
 这听起来有道理，但是经不起推敲。Twitter 的本地备份并不是很困难，而且，在 Twitter 上发长文时多数还是用的 [Typefully](https://typefully.com/)，或者先在本地写完了复制粘贴到 Twitter 的输入框中，很少有人在输入框里打长文。
 

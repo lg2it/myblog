@@ -31,7 +31,7 @@ INKP 知识管理法的**核心原则**就是以主题为重心，让知识流�
 
 ## 用 heptabase 实践 INKP
 
-在[《我的 heptabase 使用体验》](https://www.justgoidea.com/posts/2022-012l)和[《用 heptabase 实践间歇日记》](https://www.justgoidea.com/posts/2022-013)两篇文章中，我都介绍过 heptabase，这里就不过多赘述了。
+在[《我的 heptabase 使用体验》](https://www.justgoidea.com/posts/2022-012)和[《用 heptabase 实践间歇日记》](https://www.justgoidea.com/posts/2022-013)两篇文章中，我都介绍过 heptabase，这里就不过多赘述了。
 
 大家在实际操作中就会发现，heptabase 的 Journal 可以对应 Inbox，Card 可以对应 Note，Knowledge 可以对应 Whiteboard。
 

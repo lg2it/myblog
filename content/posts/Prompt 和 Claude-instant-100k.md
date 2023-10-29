@@ -17,66 +17,46 @@ GPT-4 自己列出了 20 个常用 prompt。
 
 | No. | 模式名称 | Prompt 示例 |
 | --- | --- | --- |
-| 1 | Generate Ideas
-生成创意 | List 10 potential solutions to the problem at hand
-列出10个可能的解决方案 |
-| 2 | Summarize Information
-概括信息 | Summarize the key points from this article in one paragraph.
-用一段话总结这篇文章的关键点 |
-| 3 | Brainstorm Names
-集思广益命名 | Generate 5 possible names for this new product.
-为这个新产品生成5个可能的名称 |
-| 4 | Proofread
-校对 | Proofread this document for errors and suggest corrections.
-校对此文档的错误并建议修改 |
-| 5 | Generate Headlines
-生成标题 | Come up with 3 catchy headlines for this blog post.
-为这篇博客文章想出3个吸引人的标题 |
-| 6 | Paraphrase
-改述 | Rewrite this paragraph in your own words.
-用你自己的话重写这一段 |
-| 7 | Write Descriptions
-编写描述 | Write a short description of this product for the website.
-为网站编写该产品的简短描述 |
-| 8 | Create Outlines
-创建大纲 | Create an outline for this research paper.
-为这篇研究论文创建大纲 |
-| 9 | Translate
-翻译 | Translate this document from English to Spanish.
-将此文档从英语翻译成西班牙语 |
-| 10 | Generate Questions
-生成问题 | List 5 questions that you would ask in an interview with this candidate.
-列出你将在这个候选人的面试中提出的5个问题 |
-| 11 | Generate Social Media Posts
-生成社交媒体帖子 | Create 3 social media posts to promote this event.
-创建3个社交媒体帖子来推广这个活动 |
-| 12 | Generate ProductDescriptions
-生成产品描述 | Write a product description for each of these 5 items.
-为这5个项目各写一个产品描述 |
-| 13 | Generate Taglines
-生成标语 | Create 2 taglines for this advertising campaign.
-为这个广告活动创建2个标语 |
-| 14 | Generate Email Templates
-生成电子邮件模板 | Create an email template to respond to customer inquiries.
-创建一个响应客户询问的电子邮件模板 |
-| 15 | Generate Blog Posts
-生成博客文章 | Write a 500-word blog post on this topic.
-写一篇关于这个主题的500字博客文章 |
-| 16 | Generate Product Reviews
-生成产品评论 | Write a review of this product for the website.
-为网站写一篇这个产品的评论 |
-| 17 | Generate Ad Copy
-生成广告文案 | Write a short ad for this product.
-为这个产品写一份简短的广告 |
-| 18 | Generate Job Descriptions
-生成工作描述 | Write a job description for this position.
-为这个职位写一份工作描述 |
-| 19 | Generate Website Copy
-生成网站文案 | Write the copy for the homepage of this website.
-为这个网站的主页写文案 |
-| 20 | Generate News Articles
-生成新闻文章 | Write a news article on this current event.
-写一篇关于这个当前事件的新闻文章 |
+| 1 | Generate Ideas |List 10 potential solutions to the problem at hand|
+| 1 | 生成创意 |列出10个可能的解决方案|
+| 2 | Summarize Information |Summarize the key points from this article in one paragraph.|
+|2 | 概括信息 |用一段话总结这篇文章的关键点|
+| 3 | Brainstorm Names |Generate 5 possible names for this new product.|
+|3 | 集思广益命名 |为这个新产品生成5个可能的名称|
+| 4 | Proofread |Proofread this document for errors and suggest corrections.|
+|4 | 校对 |校对此文档的错误并建议修改|
+| 5 | Generate Headlines |Come up with 3 catchy headlines for this blog post.|
+|5 | 生成标题 |为这篇博客文章想出3个吸引人的标题|
+| 6 | Paraphrase|Rewrite this paragraph in your own words.|
+|6 | 改述 |用你自己的话重写这一段|
+| 7 | Write Descriptions|Write a short description of this product for the website.|
+|7 | 编写描述 |为网站编写该产品的简短描述|
+| 8 | Create Outlines|Create an outline for this research paper.|
+|8 | 创建大纲 |为这篇研究论文创建大纲|
+| 9 | Translate|Translate this document from English to Spanish.|
+|9 | 翻译 |将此文档从英语翻译成西班牙语|
+| 10 | Generate Questions|List 5 questions that you would ask in an interview with this candidate.|
+|10 | 生成问题 |列出你将在这个候选人的面试中提出的5个问题|
+| 11 | Generate Social Media Posts|Create 3 social media posts to promote this event.|
+|11 | 生成社交媒体帖子 |创建3个社交媒体帖子来推广这个活动|
+| 12 | Generate ProductDescriptions|Write a product description for each of these 5 items.|
+|12 | 生成产品描述 |为这5个项目各写一个产品描述|
+| 13 | Generate Taglines|Create 2 taglines for this advertising campaign.|
+|13 | 生成标语 |为这个广告活动创建2个标语|
+| 14 | Generate Email Templates|Create an email template to respond to customer inquiries.|
+|14 | 生成电子邮件模板 |创建一个响应客户询问的电子邮件模板|
+| 15 | Generate Blog Posts|Write a 500-word blog post on this topic.|
+|15 | 生成博客文章 |写一篇关于这个主题的500字博客文章|
+| 16 | Generate Product Reviews|Write a review of this product for the website.|
+|16 | 生成产品评论 |为网站写一篇这个产品的评论|
+| 17 | Generate Ad Copy|Write a short ad for this product.|
+|17 | 生成广告文案 |为这个产品写一份简短的广告|
+| 18 | Generate Job Descriptions|Write a job description for this position.|
+|18 | 生成工作描述 |为这个职位写一份工作描述|
+| 19 | Generate Website Copy|Write the copy for the homepage of this website.|
+|19 | 生成网站文案 |为这个网站的主页写文案|
+| 20 | Generate News Articles|Write a news article on this current event.|
+|20 | 生成新闻文章 |写一篇关于这个当前事件的新闻文章|
 
 ## 二
 
@@ -143,4 +123,3 @@ GPT-4 自己列出了 20 个常用 prompt。
 > ChatGPT AskYourPDF plugin 是运行在 ChatGPT 上的一个插件，它在与 PDF 文件相关的文本和代码数据集上进行了训练。它专门设计用于回答有关 PDF 文件的问题，可以用于从 PDF 文件中提取信息，生成 PDF 文件的摘要，并将 PDF 文件翻译成其他语言。
 >
 > 总的来说，Claude-instant-100k 是一个比 ChatGPT AskYourPDF plugin 更强大的语言模型。然而，ChatGPT AskYourPDF 插件对于与 PDF 文件相关的任务更加专业。
->
