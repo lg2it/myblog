@@ -14,7 +14,7 @@ layout: "simple"
  - URL：`https://justgoidea.com`
  - Logo：`https://cos.justgoidea.com/justgoidea/favicon.png`
  - Description：`读书｜新知｜生活禅`
- - Copyright：槿呈Goidea by 樹程Leslie is licensed under [a Creative Commons BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ - Copyright：槿呈Goidea by L,.G. is licensed under [a Creative Commons BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
  - Hosting & DNS & CDN with [Cloudflare](https://www.cloudflare.com/)
  - You can find the change log of this site in [Change Log](https://justgoidea.com/changelog).
  - You can check the online status of all my services [here](https://monitor.hhzz.plus/status/public).
@@ -31,8 +31,8 @@ layout: "simple"
  因一念有无数生灭，而仿佛无处可逃。由是，心无放逸，不失众善。
 
  Email: me@hhzz.top
- 
- Evergreen Note: [樹程Leslie的常青笔记](https://note.justgoidea.com)
+
+ Evergreen Note: [L,.G.的常青笔记](https://note.justgoidea.com)
 
  Twitter: [@lgtwet](https://twitter.com/lgtwet)
 
