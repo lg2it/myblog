@@ -41,7 +41,7 @@ draft: false
            margin: 8px 0;
            box-sizing: border-box;"
   />
-
+  <input type="submit" value="Subscribe" />
   {{< button href="https://buttondown.email/refer/justgoidea" target="_blank" >}}
   点击订阅
   {{< /button >}}
