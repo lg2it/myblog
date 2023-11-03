@@ -23,7 +23,7 @@ draft: false
 
 ## 订阅
 
-您可以前往  [https://letters.justgoidea.com](https://letters.justgoidea.com) 订阅，或者直接在下方输入您的 email 订阅。
+您可以在下方输入您的 email ，然后点击订阅。
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/justgoidea"
