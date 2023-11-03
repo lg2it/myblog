@@ -42,10 +42,13 @@ draft: false
            box-sizing: border-box;"
   />
 
-  <input type="submit" value="点击订阅" />
+  {{< button href="https://buttondown.email/refer/justgoidea" target="_blank" >}}
+  点击订阅
+  {{< /button >}}
   <p>
     <a href="https://buttondown.email/refer/justgoidea" target="_blank">Powered by Buttondown.</a>
   </p>
+
 </form>
 
 {{< alert >}}
