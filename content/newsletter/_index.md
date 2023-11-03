@@ -23,8 +23,6 @@ draft: false
 
 ## 订阅
 
-您可以在下方输入您的 email ，然后点击订阅。
-
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/justgoidea"
   method="post"
@@ -33,7 +31,7 @@ draft: false
   class="embeddable-buttondown-form"
   style="width: 100%;"
 >
-  <label for="bd-email">输入您的 email</label>
+  <label for="bd-email">您可以在下方输入您的 email ，然后点击订阅。</label>
   <input type="email" name="email" id="bd-email" class="email-input"
     style="width: 100%;
            border: 1px solid #ccc;
