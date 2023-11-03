@@ -31,24 +31,14 @@ draft: false
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/justgoidea', 'popupwindow')"
   class="embeddable-buttondown-form"
-  style="width: 100%;"
 >
-  <label for="bd-email">输入您的 email</label>
-  <input type="email" name="email" id="bd-email" class="email-input"
-    style="width: 100%;
-           border: 1px solid #ccc;
-           padding: 12px 20px;
-           margin: 8px 0;
-           box-sizing: border-box;"
-  />
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
   <input type="submit" value="Subscribe" />
-  {{< button href="https://buttondown.email/refer/justgoidea" target="_blank" >}}
-  点击订阅
-  {{< /button >}}
   <p>
     <a href="https://buttondown.email/refer/justgoidea" target="_blank">Powered by Buttondown.</a>
   </p>
-
 </form>
 
 {{< alert >}}
