@@ -3,7 +3,7 @@ title: "我如何用 Heptabase 做笔记"
 date: 2023-09-14
 slug: "2023-057"
 draft: false
-tags: ["post"]
+tags: ["LifeOS"]
 summary: "作者分享了使用 Heptabase 做笔记的五个步骤：在 Journal 中记录想法，根据主题整理笔记，确定卡片之间的关系，创建聚合和复习思考。通过这些步骤，可以建立起有组织的知识结构。"
 ---
 
