@@ -17,7 +17,7 @@ RSSHub 是由 [DIYgod](https://twitter.com/DIYgod) 领导的开源项目，它�
 
 ## 准备阶段
 
-因为 RSSHub 是托管在 GitHub 上的开源项目，所以无论使用哪种方式，都需要您在部署之前拥有一个 Github 账号。
+因为 RSSHub 是托管在 GitHub 上的开源项目，所以无论使用哪种方式，都需要您在部署之前拥有一个 GitHub 账号。
 
 首先，用浏览器打开 [GitHub 官网](https://github.com/)（如果打不开页面，请先开代理工具后刷新重试），然后点击屏幕右上角的 `Sign UP` 进行注册。
 
@@ -57,7 +57,7 @@ RSSHub 是由 [DIYgod](https://twitter.com/DIYgod) 领导的开源项目，它�
 
 用来部署 RSSHub 时，使用 Zeabur 的免费方案即可。
 
-首先，在 Zeabur 的[登录页面](https://dash.zeabur.com/login)使用 Github 账号进行免密登录。
+首先，在 Zeabur 的[登录页面](https://dash.zeabur.com/login)使用 GitHub 账号进行免密登录。
 
 ![](https://cos.justgoidea.com/justgoidea/uPic/2023/08/14/dTCZU3.png)
 
@@ -160,7 +160,7 @@ ssh username@VPS_IP
 sudo apt-get update
 ```
 
-接下来是安装一些必需的包，以让APT能够通过HTTPS下载：
+接下来是安装一些必需的包，以让 APT 能够通过 HTTPS 下载：
 
 ```bash
 sudo apt-get install \\
@@ -171,7 +171,7 @@ sudo apt-get install \\
     lsb-release
 ```
 
-添加Docker的官方GPG密钥：
+添加 Docker 的官方 GPG 密钥：
 
 ```bash
 curl -fsSL <https://download.docker.com/linux/ubuntu/gpg> | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
@@ -185,7 +185,7 @@ echo \\
   $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
 
-更新apt包索引，并安装最新版本的 Docker Engine 和 containerd：
+更新 apt 包索引，并安装最新版本的 Docker Engine 和 containerd：
 
 ```bash
 sudo apt-get update
@@ -223,7 +223,7 @@ sudo apt-get update
 sudo apt-get install nginx
 ```
 
-然后是创建一个新的Nginx配置文件。例如，如果您的域名是 `yourdomain.com`，您可以创建一个名为 `yourdomain.com` 的文件：
+然后是创建一个新的 Nginx 配置文件。例如，如果您的域名是 `yourdomain.com`，您可以创建一个名为 `yourdomain.com` 的文件：
 
 ```bash
 sudo nano /etc/nginx/sites-available/yourdomain.com
@@ -261,7 +261,7 @@ sudo nginx -t
 如果没有错误，您将看到类似于`nginx: configuration file /etc/nginx/nginx.conf test is successful`的消息。
 ```
 
-重新加载Nginx以应用新的配置：
+重新加载 Nginx 以应用新的配置：
 
 ```bash
 sudo systemctl reload nginx
