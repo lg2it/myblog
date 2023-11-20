@@ -17,3 +17,7 @@ layout: "simple"
 ## Footprint
 
 在这个页面中，通过 Google Map，我制作了一个[足迹](https://justgoidea.com/footprint)地图，展示我已经去过了哪些地方。
+
+## Uses
+
+在这个[页面](https://justgoidea.com/uses)中，我列出了日常使用的部分软硬件。

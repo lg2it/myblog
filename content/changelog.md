@@ -6,6 +6,10 @@ slug: "changelog"
 layout: "simple"
 ---
 
+## 2023-11-20
+
+- 新增 [Uses](https://justgoidea.com/uses) 页面
+
 ## 2023-11-19
 
 - 页脚导航栏增加 [Pages](https://justgoidea.com/pages)
