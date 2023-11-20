@@ -70,6 +70,8 @@ Last Update: 2023-11-20
 
 - Readwise 和 Reader 是我目前使用过最好的阅读和标注工具。
 
+- Pinboard，好用的书签和稍后读工具，强大的 API 使其有了更多的可玩性。
+
 - infiniCloud 是一个来自日本的网盘，安全迅捷，比 Dropbox 便宜；WebDAV 功能被我用来同步 DEVONthink 的数据库。
 
 ## 流媒体
