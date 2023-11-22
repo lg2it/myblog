@@ -8,7 +8,7 @@ layout: "simple"
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
-Last Update: 2023-11-20
+Last Update: 2023-11-22
 
 ## Every Day Carry
 
@@ -74,6 +74,8 @@ Last Update: 2023-11-20
 
 - infiniCloud 是一个来自日本的网盘，安全迅捷，比 Dropbox 便宜；WebDAV 功能被我用来同步 DEVONthink 的数据库。
 
+- Cloudflare 的功能非常多，不仅管理着我的域名，提供 DNS 解析和 CDN 服务，还使用 Cloudflare Pages 部署了网站。R2 对象存储物美价廉，被我用作图床。
+
 ## 流媒体
 
 - Spotify，使用了十多年的音乐流媒体，最懂我的音乐偏好。
@@ -88,6 +90,5 @@ Last Update: 2023-11-20
 
 - NNC，流媒体解锁很强大。
 
-- CloudCone
-
+- CloudCone 的线路和配置虽然一般，但胜在便宜。IP 也比较干净，流媒体解锁也不错。
 
