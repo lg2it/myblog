@@ -78,7 +78,7 @@ Flomo 是一款非常好的 app，用过的都说好。然而，flomo 因为其�
 
 首先，我觉得有很多内容不一定要写在博客里，但又需要分享出来。
 
-其次，之前是用的 Montaigne （详见：[利用 Montaigne 将备忘录变为博客](https://justgoidea.com/posts/2022-021)）直接在苹果的备忘录中写，可是最近发现我还分享了几个备忘录给泽泽和朋友，管理起来容易和 Montaigne 搞混。
+其次，之前是用的 Montaigne （详见：[利用 Montaigne 将备忘录变为博客](https://justgoidea.com/posts/2022-021)）直接在苹果的备忘录中写，可是最近发现我还分享了几个备忘录给 C总和朋友，管理起来容易和 Montaigne 搞混。
 
 于是，我就部署了一个高仿 flomo 的开源项目 [memos](https://github.com/usememos/memos)。
 
