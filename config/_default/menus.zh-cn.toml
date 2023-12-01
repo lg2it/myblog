@@ -54,8 +54,3 @@
   name = "EN"
   url = "https://en.justgoidea.com"
   weight = 20
-
-  [[footer]]
-    name = "Pages"
-    pageRef = "pages"
-    weight = 30
