@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>others on 槿呈Goidea</title>
+    <link>https://justgoidea.com/tags/others/</link>
+    <description>Recent content in others on 槿呈Goidea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://justgoidea.com/tags/others/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>聊天机器人 Pi 和翻译器的选择</title>
+      <link>https://justgoidea.com/posts/2023-036/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://justgoidea.com/posts/2023-036/</guid>
+      <description>本期内容介绍了聊天机器人 Pi 和翻译器的选择。聊天机器人 Pi 不同于其他聊天机器人，他会非常耐心地听取你的话，并给出自己的理解和启发式的提问，帮助你打开思路，发现问题的新角度。目前他只支持英文，但提供了 5 种语音模式，用来练习英语是一个非常好的选择。而在翻译器的选择上，介绍了彩云小译和 DeepL 的优缺点，同时也推荐了一款浏览器拓展——沉浸式翻译，支持多种翻译器的 API，可以像彩云小译一样上下排版的中英对照，对主流网站进行了专门优化，是一个不错的选择。</description>
+    </item>
+  </channel>
+</rss>
