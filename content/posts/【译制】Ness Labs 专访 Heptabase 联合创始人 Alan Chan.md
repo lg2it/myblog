@@ -33,7 +33,7 @@ A：Heptabase 的愿景是创造一个人人都能有效深入理解任何事物
 
 于是，我从大学辍学，买了很多书来读，并开始建立自己的知识系统来管理我写的所有读书笔记。我用过一段时间的 Evernote，后来又换成了 Notion，我立刻发现 Notion 有很多有趣而强大的功能。 
 
-我查看了 Notion 的网站，发现了这些人机交互领域的大人物：Douglas Engelbart、Alan Kay、Ted Nelson、Bret Victor 等。我阅读并观看了 Bret Victor 网站上的所有内容。我阅读了 Douglas Engelbart 研究所网站上的大部分内容，包括《增强人类智力》报告。我读了很多 Alan Kay 的文章、Ted Nelson 的《文学机器》和 Seymour Papert 的《头脑风暴》。然后，我读了一本令人震撼的书《梦想机器》（The Dream Machine），我至今仍认为这是计算机史上最好的一本书。
+我查看了 Notion 的网站，发现了这些人机交互领域的大人物：Douglas Engelbart、Alan Kay、Ted Nelson、Bret Victor 等。我阅读并观看了 Bret Victor 网站上的所有内容。我阅读了 Douglas Engelbart 研究所网站上的大部分内容，包括[《增强人类智力》报告](https://www.dougengelbart.org/pubs/augment-3906.html)。我读了很多 Alan Kay 的文章、Ted Nelson 的[《文学机器》](https://cs.brown.edu/people/nmeyrowi/LiteraryMachinesChapter2.pdf)和 Seymour Papert 的[《头脑风暴》](https://dl.acm.org/doi/pdf/10.5555/1095592)。然后，我读了一本令人震撼的书[《梦想机器》（The Dream Machine）](https://press.stripe.com/the-dream-machine)，我至今仍认为这是计算机史上最好的一本书。
 
 读完这些书后，对我启发最大的一点是，这些计算机先驱和思想家是如何思考人类和计算机如何合作解决复杂问题的。
 
