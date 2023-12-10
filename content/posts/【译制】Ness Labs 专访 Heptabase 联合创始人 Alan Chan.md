@@ -33,7 +33,7 @@ A：Heptabase 的愿景是创造一个人人都能有效深入理解任何事物
 
 于是，我从大学辍学，买了很多书来读，并开始建立自己的知识系统来管理我写的所有读书笔记。我用过一段时间的 Evernote，后来又换成了 Notion，我立刻发现 Notion 有很多有趣而强大的功能。 
 
-我查看了 Notion 的网站，发现了这些人机交互领域的大人物：Douglas Engelbart、Alan Kay、Ted Nelson、Bret Victor 等。我阅读并观看了 Bret Victor 网站上的所有内容。我阅读了 Douglas Engelbart 研究所网站上的大部分内容，包括[《增强人类智力》报告](https://www.dougengelbart.org/pubs/augment-3906.html)。我读了很多 Alan Kay 的文章、Ted Nelson 的[《文学机器》](https://cs.brown.edu/people/nmeyrowi/LiteraryMachinesChapter2.pdf)和 Seymour Papert 的[《头脑风暴》](https://dl.acm.org/doi/pdf/10.5555/1095592)。然后，我读了一本令人震撼的书[《梦想机器》（The Dream Machine）](https://press.stripe.com/the-dream-machine)，我至今仍认为这是计算机史上最好的一本书。
+我查看了 Notion 的网站，发现了这些人机交互领域的大人物：Douglas Engelbart、Alan Kay、Ted Nelson、Bret Victor 等。我阅读并观看了 Bret Victor 网站上的所有内容。我阅读了 Douglas Engelbart 研究所网站上的大部分内容，包括[《增强人类智力》报告(*Augment Human Intellect*)](https://www.dougengelbart.org/pubs/augment-3906.html)。我读了很多 Alan Kay 的文章、Ted Nelson 的[《文学机器》(*Literary Machines*)](https://cs.brown.edu/people/nmeyrowi/LiteraryMachinesChapter2.pdf)和 Seymour Papert 的[《头脑风暴》(*Mindstorms*)](https://dl.acm.org/doi/pdf/10.5555/1095592)。然后，我读了一本令人震撼的书[《梦想机器》（*The Dream Machine*）](https://press.stripe.com/the-dream-machine)，我至今仍认为这是计算机史上最好的一本书。
 
 读完这些书后，对我启发最大的一点是，这些计算机先驱和思想家是如何思考人类和计算机如何合作解决复杂问题的。
 
@@ -61,7 +61,7 @@ A：我认为最具挑战性的部分在于，你将面临这样一个两难的�
 
 就我个人而言，我更倾向于在系统设计和用户工作之间建立一个「共同进化」的过程。这是 Engelbart 提出的另一个重要概念，他用来描述人类如何与他们使用的工具共同进化，以及工具如何与使用工具的人类共同进化的前后过程。
 
-Bret Victor 的项目 *Dynamicland* 就是这样一个很好的例子。我认为，在这个项目中，人们可以探索和理解系统，并通过编写动态的可视化数据表示进行数据驱动的对话。该系统包括大量包含程序的纸质卡片，以及一个能让人们在这些卡片上提出要求和愿望的协议，以促进程序间的交流。
+Bret Victor 的项目 *[Dynamicland](https://dynamicland.org/)* 就是这样一个很好的例子。我认为，在这个项目中，人们可以探索和理解系统，并通过编写动态的可视化数据表示进行数据驱动的对话。该系统包括大量包含程序的纸质卡片，以及一个能让人们在这些卡片上提出要求和愿望的协议，以促进程序间的交流。
 
 令我着迷的是他们是如何建立这个系统的。他们邀请了许多具有不同背景的人来到 *Dynamicland*，观察这些人是如何与 *Dynamicland* 互动的，然后利用这种学习来发展整个系统的设计和协议。
 
