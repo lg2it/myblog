@@ -35,10 +35,6 @@ draft: false
   </p>
 </form>
 
-{{< alert >}}
-您的邮箱将会收到一封确认订阅的邮件，请注意查收，谢谢。
-{{< /alert >}}
-
 ## 通过 RSS 订阅
 
 如果您不喜欢邮件订阅的方式，电子报也提供了单独的 [RSS 订阅](https://buttondown.email/justgoidea/rss)。此 RSS 源仅提供电子报的更新。
