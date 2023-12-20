@@ -105,3 +105,13 @@ summary: "通过宝塔面板快速部署 TiddlyWiki"
 接着再依次输入 `pm2 startup` 和 `pm2 save`。
 
 这样，之后就可以通过 `https://您的域名/login-basic`，使用管理员的身份使用 TiddlyWiki，同时其他访客也可以正常访问而不能修改您的笔记内容和配置。
+
+## 升级
+
+当 TiddlyWiki 发布新版本后，升级非常方便。
+
+首先，输入 `pm2 stop tiddlywiki`，在 pm2 管理器中停止当前的 tiddlywiki 服务器。
+
+然后，输入 `npm update -g tiddlywiki` 对 TiddlyWiki 的版本进行升级。
+
+之后再次配置 pm2 服务器，开启 TiddlyWiki 即可。
