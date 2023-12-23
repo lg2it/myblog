@@ -8,7 +8,7 @@ layout: "simple"
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
-Last Update: 2023-12-03
+Last Update: 2023-12-23
 
 ## Every Day Carry
 
@@ -45,14 +45,23 @@ Last Update: 2023-12-03
 ## 常用软件
 
 - Surge，网络调试工具，搭配着 [JMS](https://justmysocks.net/members/aff.php?aff=12551) 和 [MESL](https://in.mesl.cloud/#/register?code=JsT9UrbC)，以及 blackmatrix7 开源在 GitHub 的[分流规则](https://github.com/blackmatrix7/ios_rule_script)使用。
+
 - DEVONthink，文档管理和本地归档存储，搭配 DEVONagent Pro 使用。
+
 - [Heptabase](https://get.heptabase.com/e5gpan4sa29n)，主力笔记和写作软件，用于思考、研究和规划。
 - TiddlyWiki，个人维基和常青笔记。
+
 - Bitwarden，开源的密码管理器。
+
 - Raycast，macOS 上的启动器和 AI 助手，极大提高了我的效率。
+
 - Poe，强大的 AI 工具，目前是 ChatGPT Plus 最好的替代品。
+
 - Typora，轻巧强大的 markdown 编辑器，搭配 uPic 使用。
+
 - CleanShot X，强大的 macOS 截屏工具。
+
+- 鼠须管/仓输入法，开源的输入法，可以配置自定义输入方案。目前输入方案用的是[雾凇拼音](https://github.com/iDvel/rime-ice)。
 
 ## 常用服务
 
@@ -64,6 +73,8 @@ Last Update: 2023-12-03
 
 - infiniCloud 是一个来自日本的网盘，安全迅捷，比 Dropbox 便宜；WebDAV 功能被我用来同步 DEVONthink 的数据库。
 
+- RSSHub，万物皆可 RSS。
+
 ## 流媒体
 
 - Spotify，使用了十多年的音乐流媒体，最懂我的音乐偏好。
@@ -72,8 +83,12 @@ Last Update: 2023-12-03
 
 ## VPS
 
-- V.PS，xTom 旗下的 VPS 服务商，线路优质，性价比高。
+- SpartanHost，斯巴达 VPS，目前的主力，[常青笔记](https://note.justgoidea.com)和许多 docker 容器都部署在上面。
+
 - Bandwagon，大名鼎鼎的搬瓦工，提供 CN2 GIA 线路和软银线路。
+
 - CloudCone，便宜好用的 VPS 服务商。
+
 - NNC，流媒体解锁很强大。
+
 - LisaHost，提供洛杉矶的双 ISP 原生 IP。
