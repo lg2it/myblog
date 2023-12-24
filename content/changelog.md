@@ -6,6 +6,11 @@ slug: "changelog"
 layout: "simple"
 ---
 
+## 2023-12-24
+
+- 修改全站 footer
+- 修改 [About](https://justgoidea.com/about) 页面
+
 ## 2023-12-03
 
 - 修改 [About](https://justgoidea.com/about) 页面，新增 [Uses](https://justgoidea.com/uses) 和 Footprint。
