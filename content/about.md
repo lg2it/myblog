@@ -8,6 +8,8 @@ layout: "simple"
 
 ## About Site
 
+![copyright](https://cos.justgoidea.com/justgoidea/CC-BY-NC-SA.png)
+
  - Title：`槿呈Goidea`
  - URL：`https://justgoidea.com`
  - Logo：`https://cos.justgoidea.com/justgoidea/favicon.png`
@@ -43,8 +45,9 @@ layout: "simple"
  ## Friend Link
 
  - [积薪](https://firewood.news/)
+ - [川流](https://chuanliu.org/)
+ - [BlogFinder](https://bf.zzxworld.com/)
  - [友人C](https://www.ihewro.com/)
- - [SunPam](https://sunpma.com/)
  - [山葵酱](https://wasabi.fun/)
  - [邓邓的流水账](https://xhhdd.cc/)
  - [炜晨](https://weichen.blog/cn/)
