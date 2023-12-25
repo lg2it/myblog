@@ -6,6 +6,10 @@ slug: "changelog"
 layout: "simple"
 ---
 
+## 2023-12-25
+
+- 修改全站 header 和 footer
+
 ## 2023-12-24
 
 - 修改全站 footer
