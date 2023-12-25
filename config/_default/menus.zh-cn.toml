@@ -31,8 +31,8 @@
   weight = 40
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "RSS"
+  url = "https://justgoidea.com/atom.xml"
   weight = 50
 
 [[main]]
@@ -46,8 +46,8 @@
 # the copyright notice. Configure as per the main menu above.
 
  [[footer]]
-   name = "RSS"
-   url = "https://justgoidea.com/atom.xml"
+   name = "Tags"
+   pageRef = "tags"
    weight = 10
 
 [[footer]]
