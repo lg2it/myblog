@@ -8,7 +8,7 @@ layout: "simple"
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
-Last Update: 2023-12-23
+Last Update: 2023-12-27
 
 ## Every Day Carry
 
@@ -44,36 +44,39 @@ Last Update: 2023-12-23
 
 ## 常用软件
 
-- Surge，网络调试工具，搭配着 [JMS](https://justmysocks.net/members/aff.php?aff=12551) 和 [MESL](https://in.mesl.cloud/#/register?code=JsT9UrbC)，以及 blackmatrix7 开源在 GitHub 的[分流规则](https://github.com/blackmatrix7/ios_rule_script)使用。
+- [Surge](https://nssurge.com/)，电脑和手机上的正在使用的网络调试工具，搭配着 [JMS](https://justmysocks.net/members/aff.php?aff=12551) 和 [MESL](https://in.mesl.cloud/#/register?code=JsT9UrbC)，以及 blackmatrix7 开源在 GitHub 的[分流规则](https://github.com/blackmatrix7/ios_rule_script)使用。
 
-- DEVONthink，文档管理和本地归档存储，搭配 DEVONagent Pro 使用。
+- [DEVONthink](https://www.devontechnologies.com/apps/devonthink)，文档管理和本地归档存储，搭配 DEVONagent Pro 使用。
 
 - [Heptabase](https://get.heptabase.com/e5gpan4sa29n)，主力笔记和写作软件，用于思考、研究和规划。
 - TiddlyWiki，个人维基和常青笔记。
 
-- Bitwarden，开源的密码管理器。
+- [Bitwarden](https://bitwarden.com/)，开源的密码管理器。
 
-- Raycast，macOS 上的启动器和 AI 助手，极大提高了我的效率。
+- [Raycast](https://www.raycast.com/)，macOS 上的启动器和 AI 助手，极大提高了我的效率。
 
-- Poe，强大的 AI 工具，目前是 ChatGPT Plus 最好的替代品。
+- [Poe](https://poe.com)，强大的 AI 工具，目前是 ChatGPT Plus 最好的替代品。
 
-- Typora，轻巧强大的 markdown 编辑器，搭配 uPic 使用。
+- [Perplexity](https://perplexity.ai/pro?referral_code=OR9ZA4X3)，同样是强大的 AI 工具，被用做 Chrome 的默认搜索引擎。
 
-- CleanShot X，强大的 macOS 截屏工具。
+- [Typora](https://typora.io/)，轻巧强大的 markdown 编辑器，搭配 uPic 使用。
 
-- 鼠须管/仓输入法，开源的输入法，可以配置自定义输入方案。目前输入方案用的是[雾凇拼音](https://github.com/iDvel/rime-ice)。
+- [CleanShot X](https://cleanshot.com/)，强大的 macOS 截屏工具。
+
+- [鼠须管](https://rime.im/)/[仓输入法](https://github.com/imfuxiao/Hamster)，开源的输入法，可以配置自定义输入方案。目前输入方案用的是[雾凇拼音](https://github.com/iDvel/rime-ice)。
 
 ## 常用服务
 
-- Fastmail，私人和工作邮箱服务，也用于日程管理和重要资料备份。
+- [Fastmail](https://www.fastmail.com)，私人和工作邮箱服务，也用于日程管理和重要资料备份。
 
-- Readwise 和 Reader 是我目前使用过最好的阅读和标注工具。
+- [Readwise](https://readwise.io/i/9kgng6pfbd) 和 Reader 是我目前使用过最好的阅读和标注工具。
 
-- Pinboard，好用的书签和稍后读工具，强大的 API 使其有了更多的可玩性。
+- [Pinboard](https://pinboard.in/)，好用的书签和稍后读工具，强大的 API 使其有了更多的可玩性。
 
-- infiniCloud 是一个来自日本的网盘，安全迅捷，比 Dropbox 便宜；WebDAV 功能被我用来同步 DEVONthink 的数据库。
+- [infiniCloud](https://infini-cloud.net/en/) 是一个来自日本的网盘，安全迅捷，比 Dropbox 便宜；WebDAV 功能被我用来同步 DEVONthink 的数据库。
+    - 该网盘注册后有 20 GB 的免费空间，在 My Page 的 "Referral Bonus" 中输入 `LDEPT` 可以再获得 2 GB。
 
-- RSSHub，万物皆可 RSS。
+- [RSSHub](https://docs.rsshub.app/zh/)，万物皆可 RSS。
 
 ## 流媒体
 
@@ -83,12 +86,18 @@ Last Update: 2023-12-23
 
 ## VPS
 
-- SpartanHost，斯巴达 VPS，目前的主力，[常青笔记](https://note.justgoidea.com)和许多 docker 容器都部署在上面。
+{{< alter >}}
 
-- Bandwagon，大名鼎鼎的搬瓦工，提供 CN2 GIA 线路和软银线路。
+以下链接自带 aff。
 
-- CloudCone，便宜好用的 VPS 服务商。
+{{< /alter> }}
 
-- NNC，流媒体解锁很强大。
+- [SpartanHost](https://billing.spartanhost.net/aff.php?aff=2425)，斯巴达 VPS，目前的主力，[常青笔记](https://note.justgoidea.com)和许多 docker 容器都部署在上面。
 
-- LisaHost，提供洛杉矶的双 ISP 原生 IP。
+- [Bandwagon](https://bandwagonhost.com/aff.php?aff=73639)，大名鼎鼎的搬瓦工，提供 CN2 GIA 线路和软银线路。
+
+- [CloudCone](https://app.cloudcone.com/?ref=10962)，便宜好用的 VPS 服务商。
+
+- [NNC](https://nnc.sh/aff.php?aff=327)，流媒体解锁很强大。
+
+- [LisaHost](https://lisahost.com/aff.php?aff=944)，提供洛杉矶的双 ISP 原生 IP。
