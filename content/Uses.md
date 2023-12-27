@@ -86,11 +86,11 @@ Last Update: 2023-12-27
 
 ## VPS
 
-{{< alter >}}
+{{< alert >}}
 
 以下链接自带 aff。
 
-{{< /alter> }}
+{{< /alert >}}
 
 - [SpartanHost](https://billing.spartanhost.net/aff.php?aff=2425)，斯巴达 VPS，目前的主力，[常青笔记](https://note.justgoidea.com)和许多 docker 容器都部署在上面。
 
