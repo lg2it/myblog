@@ -7,6 +7,10 @@ tags: ["tech"]
 summary: "Montaigne 是一个小工具，可以将 iOS/iPadOS/macOS 的备忘录转换为网站、博客，甚至作品展示网站。使用步骤非常简单，只需在 Montaigne 上使用 Apple ID 登录，创建特定命名的共享文件夹，按照指引连接起来，添加想展示的内容，等待几分钟即可同步到博客上。"
 ---
 
+{{< alert >}}
+以下部分内容可能已过期。
+{{< /alert >}}
+
 ## 案例
 
 Montaigne 的官网展示了几个案例：

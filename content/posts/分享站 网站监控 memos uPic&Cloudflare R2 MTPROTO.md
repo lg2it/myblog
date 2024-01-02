@@ -7,6 +7,10 @@ tags: ["tech"]
 summary: "在 VPS 上部署 file gallery/站点监控/memos/MTPROTO；在 uPic 上配置 Cloudflare R2。"
 ---
 
+{{< alert >}}
+以下部分内容可能已过期。
+{{< /alert >}}
+
 这两天又折腾了一下 VPS，首先是把部分还留在腾讯云轻量上的站点和服务迁移到了 [10g.biz](https://10g.biz/index.php)。十分推荐这一家的 VPS，经过优化的线路，速度快且稳定。
 
 ## 一、File Photo Gallery

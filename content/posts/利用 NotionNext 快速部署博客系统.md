@@ -7,6 +7,10 @@ tags: ["tech"]
 summary: "NotionNext是一个开源的博客生成器，可以将Notion笔记渲染成静态博客并托管在Vercel云服务中。它具有快速秒开、自动增量式更新、全功能、美观自定义、多主题切换等特点，同时支持自定义域名和Hexo主题封面文字修改。NotionNext的部署方式简便易行，只需要通过Vercel一键部署即可。"
 ---
 
+{{< alert >}}
+以下部分内容可能已过期。
+{{< /alert >}}
+
 NotionNext是Tangly1024开源在[GitHub](https://github.com/tangly1024/NotionNext)的**博客生成器**。目的是帮助写作爱好者们通过Notion笔记免费、快速搭建独立站，从而专注于写作、不需要操心网站的维护。
 
 只需要几分钟的时间，您就可以获得一个美观的博客界面👇：

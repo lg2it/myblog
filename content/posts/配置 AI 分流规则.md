@@ -7,6 +7,10 @@ tags: ["tech"]
 summary: "适用于 OpenAI, ChatGPT, Bing, Google Bard, Poe, Notion, Pi 的节点分流策略，基于 Surge 编写."
 ---
 
+{{< alert >}}
+以下部分内容可能已过期。
+{{< /alert >}}
+
 ## 说明
 
 下面列出的分流规则是我在网络上收集到汇总而成，可能并不完整，欢迎补充。

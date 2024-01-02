@@ -7,6 +7,10 @@ tags: ["tech"]
 summary: "本文介绍了如何使用Cloudflare的Web Workers为Notion的公开页面进行域名的自定义，从而实现利用Notion搭建个人站点。"
 ---
 
+{{< alert >}}
+以下部分内容可能已过期。
+{{< /alert >}}
+
 All-In-One笔记类软件`Notion`不只有强大的database，我们还可以将一个页面设置为公开显示，也就是可以将页面链接分享给任何人浏览，哪怕他们并没有注册或者登录`Notion`。
 
 不过，目前`Notion`官方还并没有支持公开页面的自定义域名功能。所以，我们可以用「曲线救国」的方法为`Notion的公开页面`进行域名的自定义。通过简单的12个步骤，就可以使用[Cloudflare](https://www.cloudflare.com/zh-cn/)的`Web Workers`为`Notion`的`HTTP`请求进行手动改写，让我们实现利用Notion搭建个人站点。

@@ -7,6 +7,10 @@ tags: ["tech"]
 summary: "文介绍了如何在 Surge 中使用 Warp+，并分享了具体的操作步骤。"
 ---
 
+{{< alert >}}
+以下部分内容可能已过期。
+{{< /alert >}}
+
 Warp+ 是 CloudFlare 推出的可以用来保护使用者隐私的一款服务，基于 wireguard 协议，使用 UDP 来传输数据，因其 IP 地址较为纯净，可以用来解锁流媒体，谷歌学术等。
 
 Surge 是 macOS 和 iOS 上的一款网络代理工具。

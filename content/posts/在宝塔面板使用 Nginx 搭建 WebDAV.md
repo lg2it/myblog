@@ -7,6 +7,10 @@ tags: ["tech"]
 summary: "在 VPS 上搭建 WebDAV，为 DEVONthink 打造多端同步。"
 ---
 
+{{< alert >}}
+以下部分内容可能已过期。
+{{< /alert >}}
+
 最近 Dropbox 快到期了，面对高昂的续费价格，我流下了贫穷的泪水😭。
 
 但是如果不续费，iCloud 又经常性抽风，DEVONthink 的同步就成为了问题。
