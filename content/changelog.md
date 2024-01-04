@@ -6,6 +6,10 @@ slug: "changelog"
 layout: "simple"
 ---
 
+## 2024-01-04
+
+为方便修改 Now 页面，将其移至常青笔记中，并修改 footer 的导航链接至常青笔记中的 [Now](https://note.justgoidea.com/#Now:Now)。
+
 ## 2023-12-27
 
 - 导航栏增加 [Now](https://justgoidea.com/mow) 和 [Uses](https://justgoidea.com/uses)

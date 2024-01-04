@@ -52,7 +52,7 @@
 
  [[footer]]
    name = "Now"
-   pageRef = "now"
+   url = "https://note.justgoidea.com/#Now:Now"
    weight = 20
 
   [[footer]]
