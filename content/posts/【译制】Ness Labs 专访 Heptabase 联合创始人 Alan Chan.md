@@ -3,7 +3,7 @@ title: "【译制】Ness Labs 专访 Heptabase 联合创始人 Alan Chan"
 date: 2023-12-08
 slug: "2023-064"
 draft: false
-tags: ["post"]
+tags: ["post","workflow"]
 summary: "在本次采访中，Alan 谈到了智能产品设计的内在困境、如何创建一个共同进化系统来解决这一困境、知识生命周期的五个部分、如何用元应用程序解决不同用例之间的互操作性、如何支持个人和集体知识创造，等等。"
 ---
 

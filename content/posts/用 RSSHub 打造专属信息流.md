@@ -3,7 +3,7 @@ title: "用 RSSHub 打造专属信息流"
 date: 2023-08-14
 slug: "2023-054"
 draft: false
-tags: ["tech"]
+tags: ["tech","workflow"]
 summary: "本文介绍了如何使用RSSHub打造自己的信息流。可以通过Zeabur、Vercel或Docker部署RSSHub，然后使用已经制作好的路由订阅各种信息源，如新闻、社交、视频、购物、娱乐等。同时，本文还提供了一个理想化的RSS信息流列表和两篇外链文章，供读者参考。"
 ---
 
