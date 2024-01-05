@@ -48,7 +48,7 @@ Last Update: 2023-12-27
 
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink)，文档管理和本地归档存储，搭配 DEVONagent Pro 使用。
 
-- [Heptabase](https://get.heptabase.com/e5gpan4sa29n)，主力笔记和写作软件，用于思考、研究和规划。
+- [Heptabase](https://get.heptabase.com/justgoidea)，主力笔记和写作软件，用于思考、研究和规划。
 
 - [TiddlyWiki](https://tiddlywiki.com/)，个人维基和常青笔记。
 

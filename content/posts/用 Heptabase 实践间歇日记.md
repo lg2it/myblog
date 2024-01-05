@@ -9,7 +9,7 @@ summary: "本文介绍了间歇日记的定义和写作方式，并分享了作�
 
 在[《用 DEVONthink 重构阅读写作流》](https://www.justgoidea.com/posts/2022-011)和[《我的 Heptabase 使用体验》](https://www.justgoidea.com/posts/2022-012)两篇文章中，分别介绍了我是如何使用 DEVONthink 和 Heptabase 来构建自己的资料馆和知识库。随着对这两款软件的重度使用，尤其是开始在 Heptabase 上实践`间歇日记`后，两款软件的协同性进一步加深，也让我的数字生活更加井然有序。
 
-现在，[Heptabase](https://get.heptabase.com/e5gpan4sa29n) 1.0 版本和手机端最新版本已经发布，功能更加全面。开始您的 7 天免费体验吧。
+现在，[Heptabase](https://get.heptabase.com/justgoidea) 1.0 版本和手机端最新版本已经发布，功能更加全面。开始您的 7 天免费体验吧。
 
 ## 什么是间歇日记
 

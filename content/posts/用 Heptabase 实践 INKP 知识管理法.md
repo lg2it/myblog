@@ -69,4 +69,4 @@ Knowledge 就是更大的仓库，负责存储这些集装箱，当集装箱成�
 
 而 Project 则相当于工厂，例如一个工厂订购了很多零件准备组装产品，工厂就需要从仓库（Note）或者集装箱（Knowledge）里抽调各种各样的零件，最后打造出我们看到的产品。而这个调取的过程，所形成的经验、流程就可以类比为我们的智慧。
 
-现在，[Heptabase](https://get.heptabase.com/e5gpan4sa29n) 1.0 版本和手机端最新版本已经发布，功能更加全面。开始您的 7 天免费体验吧。
+现在，[Heptabase](https://get.heptabase.com/justgoidea) 1.0 版本和手机端最新版本已经发布，功能更加全面。开始您的 7 天免费体验吧。

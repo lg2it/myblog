@@ -54,4 +54,4 @@ Heptabase 提供了很棒的中观视角，不同于 Obsidian 和 Roam Research 
 
 「删繁就简三秋树，领异标新二月花」，是我们在使用 Heptabase 建立网络化思维的最好注脚。
 
-现在，[Heptabase](https://get.heptabase.com/e5gpan4sa29n) 1.0 版本和手机端最新版本已经发布，功能更加全面。开始您的 7 天免费体验吧。
+现在，[Heptabase](https://get.heptabase.com/justgoidea) 1.0 版本和手机端最新版本已经发布，功能更加全面。开始您的 7 天免费体验吧。
