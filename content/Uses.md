@@ -97,8 +97,6 @@ Last Update: 2023-12-27
 
 - [Bandwagon](https://bandwagonhost.com/aff.php?aff=73639)，大名鼎鼎的搬瓦工，提供 CN2 GIA 线路和软银线路。
 
-- [CloudCone](https://app.cloudcone.com/?ref=10962)，便宜好用的 VPS 服务商。
-
 - [NNC](https://nnc.sh/aff.php?aff=327)，流媒体解锁很强大。
 
 - [LisaHost](https://lisahost.com/aff.php?aff=944)，提供洛杉矶的双 ISP 原生 IP。
