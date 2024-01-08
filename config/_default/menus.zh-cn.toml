@@ -1,0 +1,66 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+#
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Newsletter"
+  pageRef = "newsletter"
+  weight = 20
+
+[[main]]
+  name = "Notes"
+  url = "https://note.justgoidea.com"
+  weight = 30
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 40
+
+[[main]]
+  name = "RSS"
+  url = "https://justgoidea.com/atom.xml"
+  weight = 50
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
+
+ [[footer]]
+   name = "Now"
+   url = "https://note.justgoidea.com/#Now:Now"
+   weight = 20
+
+  [[footer]]
+   name = "Uses"
+   pageRef = "uses"
+   weight = 30
+
+[[footer]]
+  name = "EN"
+  url = "https://en.justgoidea.com"
+  weight = 40

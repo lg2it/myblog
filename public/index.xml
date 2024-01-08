@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>槿呈Goidea</title>
+    <link>https://justgoidea.com/</link>
+    <description>Recent content on 槿呈Goidea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://justgoidea.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://justgoidea.com/about/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/about/</guid>
+      <description>About Site # Title：槿呈Goidea URL：https://justgoidea.com Logo：https://cos.hhzz.love/justgoidea/favicon.png Description：读书｜新知｜生活禅 Copyright：槿呈Goidea by 樹程Leslie is licensed under a Creative Commons BY-NC-SA 4.0 International License DNS &amp;amp; CDN with Cloudflare You can find the change log of this site in Change Log. You can check the online status of all my services here. 为了防止意外情况发生，我在区块链博客 xLog 也开了同名博客 槿呈Goidea（xLog），会同步更新。 如果您愿意给我打赏或赞助我写下去，欢迎订阅我的付费专栏。 从 WordPress 到 Typecho 再到如今的 Hugo，可谓「皮肤脱落尽，唯有一真实」。除却花里胡哨，留下的就是一篇篇单纯的文字，分享我「高高山顶立，深深海底行」的学习和生活，记录「云在青天水在瓶」般的好奇与体验。
+About Me # 🌈 INTP｜🧘‍♂️ Buddhist｜🎬Producer
+因一念有无数生灭，而仿佛无处可逃。由是，心无放逸，不失众善。
+Email：me@hhzz.top
+Twitter：@lgtwet
+Telegram Chanel: 槿呈Goidea
+Youtube：槿呈Goidea
+Friend Link # </description>
+    </item>
+    
+    <item>
+      <title>ChangeLog</title>
+      <link>https://justgoidea.com/changelog/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/changelog/</guid>
+      <description>2023-08-29 # 在本地创建 Hugo blog，并使用 Congo 模板。</description>
+    </item>
+    
+    <item>
+      <title>Copyright</title>
+      <link>https://justgoidea.com/copyright/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/copyright/</guid>
+      <description>槿呈Goidea is licensed under a Creative Commons BY-NC-SA 4.0 International License. # This is a human-readable summary of (and not a substitute for) the license.
+You are free to: # Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms: # Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+NonCommercial — You may not use the material for commercial purposes.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</description>
+    </item>
+    
+    <item>
+      <title>Vol.23 悲歌与共业</title>
+      <link>https://justgoidea.com/newsletter/202323/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202323/</guid>
+      <description>本期介绍了交通联合卡和最新的 Heptabase 移动端 app，一段「悲歌与共业」的思考，以及一些阅读、视频和音频推荐。</description>
+    </item>
+    
+    <item>
+      <title>Telegram RSSbot 搭建简要说明</title>
+      <link>https://justgoidea.com/posts/2023-055/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-055/</guid>
+      <description>本文介绍了如何搭建 Telegram RSSbot，包括准备工作、新建机器人、获取基本信息、搭建机器人后端和订阅 RSS 等步骤。同时还介绍了如何搭建 MTPROTO 代理服务。</description>
+    </item>
+    
+    <item>
+      <title>Vol.22 走走停停</title>
+      <link>https://justgoidea.com/newsletter/202322/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202322/</guid>
+      <description>这期作者推荐了 Auckland 的一家波利尼西亚风格的中餐厅，由此引发了一段关于「走走停停」的感慨。然后，介绍了 Raycast AI 的使用心得，以及一些推荐阅读和欣赏的文章、电影、音乐。此外，作者还推荐了全能型博客工具 Gridea，以及一款正在开发中的开源仿宋字体计划。</description>
+    </item>
+    
+    <item>
+      <title>Vol.21 时间管理</title>
+      <link>https://justgoidea.com/newsletter/202321/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202321/</guid>
+      <description>时间管理的概念是工业界设计的，目的是让管理者能够控制员工的工作时间和方式。然而，时间管理往往导致工作量增加，可用时间减少。因此，Norton 提出了一种新的时间管理方法，即「反时间管理」，强调我们自己对时间的控制权，而不是让时间被别人控制。</description>
+    </item>
+    
+    <item>
+      <title>用 RSSHub 打造专属信息流</title>
+      <link>https://justgoidea.com/posts/2023-054/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-054/</guid>
+      <description>本文介绍了如何使用RSSHub打造自己的信息流。可以通过Zeabur、Vercel或Docker部署RSSHub，然后使用已经制作好的路由订阅各种信息源，如新闻、社交、视频、购物、娱乐等。同时，本文还提供了一个理想化的RSS信息流列表和两篇外链文章，供读者参考。</description>
+    </item>
+    
+    <item>
+      <title>我收藏的那些神奇网站</title>
+      <link>https://justgoidea.com/posts/2023-053/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-053/</guid>
+      <description>这篇博客介绍了作者收藏的一些神奇网站，包括聚合博客平台积薪和Buzzing、常用思考工具网站Untools、色彩查询网站中国色和日本色、微信Markdown编辑器、emoji转换器TxtEmoji和Twitter截图工具Poet、实用小工具汇集网站一个木函等。</description>
+    </item>
+    
+    <item>
+      <title>杞人忧天和未雨绸缪</title>
+      <link>https://justgoidea.com/posts/2023-052/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-052/</guid>
+      <description>中国的App备案新规要求所有未备案的App无法连接互联网，这可能导致一些上网工具和笔记类App无法使用。虽然具体实施细节还没有公布，但文章提出了一些假设，如通讯运营商设置联网白名单、分发平台锁区等，提醒人们要未雨绸缪。作者建议保留至少三个不同地区的Apple ID，减少对需要联网的笔记软件的依赖等。</description>
+    </item>
+    
+    <item>
+      <title>将创意转化为内容的八个常用框架</title>
+      <link>https://justgoidea.com/posts/2023-051/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-051/</guid>
+      <description>本文介绍了将创意转化为内容的八个常用框架。沟通是内容创作的真谛，改进沟通策略可以帮助信息的有效传递。八个框架包括：如果这样/那么那样、大多数人、停止这个、不等于、快速提示、方法/流程、编号列表、隐喻。</description>
+    </item>
+    
+    <item>
+      <title>Vol.20 拍条短片</title>
+      <link>https://justgoidea.com/newsletter/202320/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202320/</guid>
+      <description>本期介绍了作者拍摄一条品牌宣传片的过程。通过采访客户和抽样调查消费群体的数据，作者确定了广告的创意方向。在拍摄前，作者和团队成员进行了头脑风暴和九宫格创意，最终确定了影片的架构。在拍摄现场，作者鼓励演员放松心态，自然表演。最终，作者上传了成片到B站，并提供了产品购买链接。</description>
+    </item>
+    
+    <item>
+      <title>Vol.19 冥想的方法与研究方向</title>
+      <link>https://justgoidea.com/newsletter/202319/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202319/</guid>
+      <description>本期内容介绍了冥想的方法和心理学对冥想的三个研究方向：认知角度、行为角度和心理体验角度。同时，探讨了宗教与科学的不同作用和价值，以及批判性思维的概念。最后，介绍了 Buzzing 网站和 LLMs 在知识管理中的作用。</description>
+    </item>
+    
+    <item>
+      <title>Vol.18 笔记的未竟之义</title>
+      <link>https://justgoidea.com/newsletter/202318/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202318/</guid>
+      <description>本期电子报讨论了用笔记解决实际问题的未竟之义，以及Heptabase笔记软件的优点，如能够分隔记录、思考与整理，同时使之在白板中协调统一，更有助于让当下学习的内容体系化、网络化、立体化。此外，还探讨了信息流与笔记的关系，以及如何通过将Twitter信息流转存到Readwise/omnivore，然后通过Heptabase/Obsidian有针对性地做笔记，来对智慧进行积极追求。</description>
+    </item>
+    
+    <item>
+      <title>【授权转载】从阅读中获取知识的最好方式</title>
+      <link>https://justgoidea.com/posts/2023-050/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-050/</guid>
+      <description>本文介绍了一种从阅读中获取知识的最好方式，即将书中的重要段落拆解成更小的概念，并将这些概念之间的关联性画出来，最后将相似的概念群组起来。通过这个过程，建立知识架构，给每张卡片和 Section 下标题所投入的思考过程，才能真正理解和洞察知识。最后，建议采用间隔式复习法来留存这些知识，并强调工具选择的重要性。</description>
+    </item>
+    
+    <item>
+      <title>LifeOS：我的个人管理系统</title>
+      <link>https://justgoidea.com/posts/2023-049/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-049/</guid>
+      <description>LifeOS 2.0 是一个由五个主要子系统和二十二个版块构成的个人知识管理、学习、生活和工作的全景视角。CETDE 是个人知识管理工作流模型，包括 Capture、Encode、Transfer、Distill 和 Express 五个阶段，可以直接在 LifeOS 中使用。而生活禅理念提供了一个哲学和实践框架，用以整合、应用和创新个人的知识管理全过程。</description>
+    </item>
+    
+    <item>
+      <title>Blog or Blue?</title>
+      <link>https://justgoidea.com/posts/2023-048/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-048/</guid>
+      <description>本文探讨了写博客和写推文的优劣和选择，指出两者都有其独特的价值和意义，都可以为我们提供不同的视角和体验。无论是 Blog 还是 Twitter，无论是文字还是声音，它们都只是我们表达自我和分享知识的工具和渠道。真正的核心在于如何与自己的思想和知识建立连接，以及如何与他人共享这些连接，让知识得以传播和进步。</description>
+    </item>
+    
+    <item>
+      <title>Vol.17 《壹苇可航》一岁了🎉</title>
+      <link>https://justgoidea.com/newsletter/202317/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202317/</guid>
+      <description>作者感谢读者一年来的支持，将继续以个人知识管理、生产力工具和生产力系统、AIGC、读书感悟、佛学思想和生活禅、欧美知名媒体的前沿资讯为主要内容方向，保持电邮通讯的新鲜时效和真诚亲切。作者认为写作是对表达能力和思维深度的挑战与锻炼，希望读者能在生活中寻找到那根「苇」，借其力量，抵达心灵的宁静和生活的高效。</description>
+    </item>
+    
+    <item>
+      <title>为什么应该（从现在）开始记录</title>
+      <link>https://justgoidea.com/posts/2023-047/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-047/</guid>
+      <description>记录是每天都在进行的，无时无刻不在进行。记录的好处很多，坏处没有多少。记录可以帮助我们深入观察自己和环境的关系，对生活有更深的理解，也是对生活的一种回应和尊重，更是对生活的热爱。记录还可以提高效率和生产力，帮助我们更好地组织自己的时间和精力，更有效地完成任务和实现目标。记录的方式是多种多样的，只要是可以将当下转化成可以相对长期保存的一种数据编码形式，爱用什么样的方式，就用什么样的方式。</description>
+    </item>
+    
+    <item>
+      <title>Bitwarden vs 1Password</title>
+      <link>https://justgoidea.com/posts/2023-046/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-046/</guid>
+      <description>两个顶级密码管理器的比较</description>
+    </item>
+    
+    <item>
+      <title>Vol.16</title>
+      <link>https://justgoidea.com/newsletter/202316/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202316/</guid>
+      <description>本期通讯的内容包括王维诗歌的讨论，与炜晨的会面，网络欺凌的问题，以及对知识管理本质的思考。</description>
+    </item>
+    
+    <item>
+      <title>梦中居所</title>
+      <link>https://justgoidea.com/posts/2023-045/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-045/</guid>
+      <description>这篇文章描述了作者梦中的居所，受到明代画家莫是龙的小品启发。</description>
+    </item>
+    
+    <item>
+      <title>对自己做一个实验：记录意识流</title>
+      <link>https://justgoidea.com/posts/2023-044/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-044/</guid>
+      <description>这篇博客介绍了作者对意识流记录的实验，通过记录意识流来了解自己的业力和习气，清理头脑中的垃圾，更好地认识自己。作者解释了佛教中的业力和习气概念，并说明了记录意识流的难点在于要忠实记录，不修改、不措辞、不取舍。</description>
+    </item>
+    
+    <item>
+      <title>配置 AI 分流规则</title>
+      <link>https://justgoidea.com/posts/2023-043/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-043/</guid>
+      <description>适用于 OpenAI, ChatGPT, Bing, Google Bard, Poe, Notion, Pi 的节点分流策略，基于 Surge 编写.</description>
+    </item>
+    
+    <item>
+      <title>Vol.15</title>
+      <link>https://justgoidea.com/newsletter/202315/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202315/</guid>
+      <description>本期通讯包括重新审视美元地位的文章、科学家通过 AI 发现新的抗生素、作者的 ChatGPT Plus 被取消订阅、博客的迁移与重整、以及付费专栏和博客的更新。</description>
+    </item>
+    
+    <item>
+      <title>博客的迁移和重整</title>
+      <link>https://justgoidea.com/posts/2023-041/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-041/</guid>
+      <description>本文介绍了博客从 &lt;a
+  href=&#34;http://super.so/&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;http://super.so/&lt;/a&gt; 迁移到 Nobelium 的过程中，作者对导航栏、页脚、代码块和字体进行的自定义修改，以及在 Nobelium 数据库中完善博客内容的过程。作者认为博客应该纯粹，用于记录与分享，而 Notion 和 Nobelium 满足了作者对博客的全部需求。</description>
+    </item>
+    
+    <item>
+      <title>分享站/网站监控/memos/uPic&amp;Cloudflare R2/MTPROTO</title>
+      <link>https://justgoidea.com/posts/2023-040/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-040/</guid>
+      <description>在 VPS 上部署 file gallery/站点监控/memos/MTPROTO；在 uPic 上配置 Cloudflare R2。</description>
+    </item>
+    
+    <item>
+      <title>Prompt 和 Claude-instant-100k</title>
+      <link>https://justgoidea.com/posts/2023-039/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-039/</guid>
+      <description>GPT-4 给出的 20 个常用 prompt，和 Claude 分析论文后总结的 16 个 prompt 框架。</description>
+    </item>
+    
+    <item>
+      <title>Vol.14</title>
+      <link>https://justgoidea.com/newsletter/202314/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202314/</guid>
+      <description>本期涵盖了各种主题，包括年轻人心脏病发作、全球互联网使用情况、在计算机上使用微信中的默认浏览器、谷歌的新 AI 引擎等。</description>
+    </item>
+    
+    <item>
+      <title>Conversation with Pi （双语）</title>
+      <link>https://justgoidea.com/posts/2023-038/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-038/</guid>
+      <description>我基于 DIKW 金字塔，重新思考了两者，并终于提出了我自己的方法论，我将其称为 CETDE。为了验证我的想法，决定和之前介绍过的让我非常惊艳的聊天机器人 &lt;a
+  href=&#34;https://heypi.com/talk&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;
+&gt;https://heypi.com/talk&lt;/a&gt; 交流一下，看看它是怎样看待我的方法论，会向我提出哪些问题，能不能帮助我更深入地思考和完善方法论。</description>
+    </item>
+    
+    <item>
+      <title>Vol.13</title>
+      <link>https://justgoidea.com/newsletter/202313/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202313/</guid>
+      <description>本期内容主要涉及以下几个方面：微软新版搜索引擎 New Bing 的推出，人工智能可能给社交媒体带来的危害，人类大脑的社会知觉神经网络，极端天气频率的增加等。</description>
+    </item>
+    
+    <item>
+      <title>从《心经》中学习知识管理</title>
+      <link>https://justgoidea.com/posts/2023-037/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-037/</guid>
+      <description>从《心经》的角度来看，知识管理需要认识到知识的无常和不断发展的本质，保持谦虚和开放的心态，避免对某一知识领域产生执著，具备批判和分析的知识能力，以及不断学习和实践的精神。空性智慧和般若知识观则强调开放和包容、相对和主观、非限定和非执著、批判和分析、知识的过程观、知识的整体观、知识的解脱等特征，可以帮助我们更好地理解、整合和应用知识。</description>
+    </item>
+    
+    <item>
+      <title>聊天机器人 Pi 和翻译器的选择</title>
+      <link>https://justgoidea.com/posts/2023-036/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-036/</guid>
+      <description>本期内容介绍了聊天机器人 Pi 和翻译器的选择。聊天机器人 Pi 不同于其他聊天机器人，他会非常耐心地听取你的话，并给出自己的理解和启发式的提问，帮助你打开思路，发现问题的新角度。目前他只支持英文，但提供了 5 种语音模式，用来练习英语是一个非常好的选择。而在翻译器的选择上，介绍了彩云小译和 DeepL 的优缺点，同时也推荐了一款浏览器拓展——沉浸式翻译，支持多种翻译器的 API，可以像彩云小译一样上下排版的中英对照，对主流网站进行了专门优化，是一个不错的选择。</description>
+    </item>
+    
+    <item>
+      <title>五一假期更换的那些软件</title>
+      <link>https://justgoidea.com/posts/2023-035/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-035/</guid>
+      <description>本期内容为我更换的一些软件，包括浏览器、聊天机器人、输入法等，并分享了一些使用这些软件的经验和建议。</description>
+    </item>
+    
+    <item>
+      <title>我使用的 AI 工具</title>
+      <link>https://justgoidea.com/posts/2023-033/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-033/</guid>
+      <description>本文介绍了我使用的一些 AI 工具，包括 Notion AI，New Bing，OpenCat，ChatHub，ChatGPT 和 Poe 等。</description>
+    </item>
+    
+    <item>
+      <title>今日随笔：仓输入法，对经验的思考，好友来广州了</title>
+      <link>https://justgoidea.com/posts/2023-032/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-032/</guid>
+      <description>今日分享的内容为：仓输入法 iOS 客户端配置雾凇拼音，四种经验的来源，陪好友在广州闲逛。</description>
+    </item>
+    
+    <item>
+      <title>在宝塔面板使用 Nginx 搭建 WebDAV</title>
+      <link>https://justgoidea.com/posts/2023-029/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-029/</guid>
+      <description>在 VPS 上搭建 WebDAV，为 DEVONthink 打造多端同步。</description>
+    </item>
+    
+    <item>
+      <title>走江湖</title>
+      <link>https://justgoidea.com/posts/2023-026/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-026/</guid>
+      <description>净慧老和尚示寂十周年，我和泽泽前往黄梅四祖寺参加法会。期间参礼了湖北、江西的多座寺院，也引发了一些思考。</description>
+    </item>
+    
+    <item>
+      <title>在 Surge 使用 Warp&#43;</title>
+      <link>https://justgoidea.com/posts/2023-025/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-025/</guid>
+      <description>文介绍了如何在 Surge 中使用 Warp+，并分享了具体的操作步骤。</description>
+    </item>
+    
+    <item>
+      <title>时意</title>
+      <link>https://justgoidea.com/posts/2023-024/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-024/</guid>
+      <description>七绝一首</description>
+    </item>
+    
+    <item>
+      <title>Vol.11</title>
+      <link>https://justgoidea.com/newsletter/202311/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202311/</guid>
+      <description>本期内容涉及静态网站托管服务提供商的比较、ChatGPT 的教程、正念融入生活的方法等。</description>
+    </item>
+    
+    <item>
+      <title>Vol.10</title>
+      <link>https://justgoidea.com/newsletter/202310/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202310/</guid>
+      <description>本文介绍了微软的 Loop 协同创作工具和人工智能技术的发展。Loop 可以实现跨软件、跨领域的协同创作，而人工智能技术已经开始参与到我们的日常生活、工作和学习中。文章提出，面对人工智能的冲击，我们应该在决策、思考和感受上多下功夫。</description>
+    </item>
+    
+    <item>
+      <title>悼祖父哀思如梦</title>
+      <link>https://justgoidea.com/posts/2023-018/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-018/</guid>
+      <description>七律一首，悼念祖父</description>
+    </item>
+    
+    <item>
+      <title>药山公案廿九则</title>
+      <link>https://justgoidea.com/posts/2023-017/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-017/</guid>
+      <description>二十九则药山惟俨禅师的禅宗公案</description>
+    </item>
+    
+    <item>
+      <title>AI 时代写笔记的重要意义</title>
+      <link>https://justgoidea.com/posts/2023-016/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-016/</guid>
+      <description>在人工智能时代，写笔记仍然具有重要意义。人工智能工具可能会降低使用门槛，但也会提高上限，因此拥有专业知识非常重要。记录个人的想法是人工智能无法为我们做的事情。人类的直觉、创造力和道德判断仍然是不可替代的。在人工智能效率和保持认知能力之间取得平衡至关重要，写笔记可以促进我们保持批判性思维和自我意识，让我们的头脑持续敏锐。</description>
+    </item>
+    
+    <item>
+      <title>Vol.8 为什么短视频变多了？</title>
+      <link>https://justgoidea.com/newsletter/202308/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202308/</guid>
+      <description>短视频成为了广告主的重要营销渠道，同时也成为了人们消遣娱乐的方式。建立新知识需要了解已有知识、创造性思维、实践和反思。十条心得包括不断学习、正视失败、分享知识、质疑假设、客观分析、尊重批评、珍惜当下、心怀希望、以诚待人和采取主动。P.A.R.A 可以有无限层级，可以在笔记管理和文件管理中使用。</description>
+    </item>
+    
+    <item>
+      <title>Vol.7</title>
+      <link>https://justgoidea.com/newsletter/202307/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202307/</guid>
+      <description>本文提醒我们要平衡和自律地对待欲望，勇于行动并注意方法，思考时要大胆，执行时要克制，同时分享了一些有趣的见闻和更新内容。</description>
+    </item>
+    
+    <item>
+      <title>折腾笔记软件是把双刃剑：不要忽视写笔记和思考</title>
+      <link>https://justgoidea.com/posts/2023-013/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-013/</guid>
+      <description>折腾笔记软件可能会让人忽视写笔记和思考，因此在选择和使用笔记软件时需要理性思考，明确软件的主要功能是否能够满足基本需求，避免把精力和时间浪费在折腾软件上。同时，也要注意保持对写笔记、做思考这一最基本需求的关注和实践。</description>
+    </item>
+    
+    <item>
+      <title>在 Heptabase 中构建第二大脑</title>
+      <link>https://justgoidea.com/posts/2023-011/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-011/</guid>
+      <description>本文介绍了如何在 Heptabase 中构建第二大脑，包括收集有价值的内容、建立联系、创造有形的结果、使用白板进行项目和领域管理、整理日历和任务管理、发散与聚敛的思维进行创作等。Heptabase 的核心能力在于支持聚敛性思维的能力，通过双向链接、笔记库和白板等功能，帮助我们发现意想不到的联系和思维模式，提高创造力和灵感系统。</description>
+    </item>
+    
+    <item>
+      <title>Vol.6</title>
+      <link>https://justgoidea.com/newsletter/202306/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202306/</guid>
+      <description>LRRC15蛋白质被发现能阻止SARS-CoV-2病毒感染肺细胞；科学家发现HIV病毒的另一个潜伏位置——中枢神经系统；Netflix的密码共享政策忽略了“家庭”并没有普遍定义的现实；达芬奇笔记显示他曾研究过引力和加速度关系。</description>
+    </item>
+    
+    <item>
+      <title>尽未来际，耕种心田</title>
+      <link>https://justgoidea.com/posts/2023-009/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-009/</guid>
+      <description>这篇文章探讨了耕种内心世界的重要性，以及通过修行、反思和调整内心状态来实现内心成长和发展的方法。作者强调了通过不断拓展自己的内心世界，让内心的种子得到充分的滋养，探索和拓展内心的丰富，让心田充满未来的希望和无限可能的重要性。</description>
+    </item>
+    
+    <item>
+      <title>Vol.5</title>
+      <link>https://justgoidea.com/newsletter/202305/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202305/</guid>
+      <description>本文介绍了咖啡因并不会带来能量，疫情对经济条件不佳的儿童的学习影响最大，以及愚蠢比邪恶更可怕等内容。</description>
+    </item>
+    
+    <item>
+      <title>拓展思维边界：用 Heptabase 建立网络化思维</title>
+      <link>https://justgoidea.com/posts/2023-007/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-007/</guid>
+      <description>网络化思维是一种非线性的二阶思考方式，强调发散和涌现，可以帮助我们超越常识性的解决方案。Heptabase 是一个很好的网络化思维工具，提供中观视角，帮助我们更深入地探究问题、概念、思路背后的逻辑，并提升解决复杂问题的效率。</description>
+    </item>
+    
+    <item>
+      <title>Vol.4</title>
+      <link>https://justgoidea.com/newsletter/202304/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202304/</guid>
+      <description>本文介绍了三个科技新闻：AI 眼神交流技术、OpenAI 招聘承包商以淘汰基本编码、社交媒体奖励机制导致虚假信息传播。</description>
+    </item>
+    
+    <item>
+      <title>答 Pimgeek 关于佛教的提问</title>
+      <link>https://justgoidea.com/posts/2023-006/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-006/</guid>
+      <description>这篇文章探讨了佛教的一些基本精神和教义，包括以法为尊、以戒为师、说法圆融等。作者分享了自己的信仰认知和体悟佛法的经验，强调了将佛教的教义融入日常生活、学习、工作中的重要性。</description>
+    </item>
+    
+    <item>
+      <title>药山禅思</title>
+      <link>https://justgoidea.com/posts/2023-005/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-005/</guid>
+      <description>七绝一首</description>
+    </item>
+    
+    <item>
+      <title>Vol.3</title>
+      <link>https://justgoidea.com/newsletter/202303/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202303/</guid>
+      <description>本文介绍了最新的研究表明短时间但剧烈的运动可以增加一种特殊蛋白的产生，有助于延缓认知衰退；数字花园的概念以及 Pimgeek 的数字花园；愚蠢问题的价值；AI 需要算法突破。</description>
+    </item>
+    
+    <item>
+      <title>归药山寺竹林禅院偶得四句</title>
+      <link>https://justgoidea.com/posts/2023-004/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-004/</guid>
+      <description>七绝一首</description>
+    </item>
+    
+    <item>
+      <title>为什么要写笔记</title>
+      <link>https://justgoidea.com/posts/2023-002/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-002/</guid>
+      <description>写笔记的好处包括备忘、缓存、对话、交流和语言思考。笔记可以对内，也可以对外，只是呈现方式不同。数字外脑的构筑是未来的趋势，它可以存储大量信息、组织信息、帮助思考和提高记忆力。AI 可以帮助笔记软件更好地处理信息、提供个性化服务、改善用户体验等。写笔记需要建立自己的方法论，而不是围绕使用什么样的工具去构建方法论。</description>
+    </item>
+    
+    <item>
+      <title>2022 年那些工作流中的好工具</title>
+      <link>https://justgoidea.com/posts/2023-001/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2023-001/</guid>
+      <description>介绍了作者在2022年使用的一些工具，包括Inoreader、Readwise Reader、Readwise、DEVONthink、Eagle、Notion、Heptabase、Obsidian、石墨文档、Draw.io和Shottr。这些工具被用于吸收、整理、输出、分享、归档、回顾、沟通和协作等多个方面。</description>
+    </item>
+    
+    <item>
+      <title>Vol.1 新年快乐</title>
+      <link>https://justgoidea.com/newsletter/202301/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/newsletter/202301/</guid>
+      <description>这篇文章介绍了作者最近的付费专栏更新、个人博客更新、一些有趣的语录和其他内容。付费专栏更新包括关于元认知和3C激励模型的文章，以及年终总结模板。博客更新介绍了作者对于工作流中所使用工具的心得体会。此外，文章还提到了一篇关于 Covid 的科学认知和一篇关于如何创造虚构语言的文章。</description>
+    </item>
+    
+    <item>
+      <title>一轮明月耀天心</title>
+      <link>https://justgoidea.com/posts/2022-022/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-022/</guid>
+      <description>这篇文章介绍了药山禅师、琅琊慧觉禅师和船子德诚禅师等人物，以及他们与明月、山水的关系。通过引用诗词和故事，表达了心静自然明的禅意。</description>
+    </item>
+    
+    <item>
+      <title>二十四个常见的逻辑错误</title>
+      <link>https://justgoidea.com/posts/2022-020/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-020/</guid>
+      <description>这篇文章列举了24种常见的逻辑错误，包括举证责任、语义模糊、赌徒谬误、乐队花车、诉诸权威、合成谬误、没有真正的苏格兰人、基因谬误、非黑即白、窃取论点、诉诸自然、轶事证据、德克萨斯神枪手和中间立场等。这些错误会导致辩论的建设性破坏，需要避免。</description>
+    </item>
+    
+    <item>
+      <title>2022 年值得持续阅读的内容平台</title>
+      <link>https://justgoidea.com/posts/2022-019/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-019/</guid>
+      <description>这篇文章介绍了一些值得持续阅读的内容平台，包括 Semafor、禅刊网络版、Marginal Revolution University、iDaily每日环球视野、The Atlantic、Harvard Business Review、Zettelkasten、奇客Solidot、生活奇旅、新闻实验室、产品沉思录、NextDraft、Shyrism、随机波动、Aeon、Every、读库、星球研究所、鬼脚七、左岸读书、知识分子、赛先生、玉树芝兰等。此外，作者还介绍了使用RSS和Readwise Reader的方法。</description>
+    </item>
+    
+    <item>
+      <title>聚焦输入，发散整理</title>
+      <link>https://justgoidea.com/posts/2022-016/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-016/</guid>
+      <description>聚焦输入模式下，我们可以将输入内容形成原子化笔记，再将其转化为卡片。在构建卡片盒时，我们需要发散整理，调动发散思维，将卡片编织成网状结构。通过这样的方式，我们可以更好地记录、整理和利用知识。</description>
+    </item>
+    
+    <item>
+      <title>两个思维模型</title>
+      <link>https://justgoidea.com/posts/2022-015/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-015/</guid>
+      <description>本文介绍了两个思维模型：脱域-再嵌入和符号标志+专家系统。前者是成功商品和概念的共同特点，后者则是广告片和宣传片的要素。文章详细解释了这两个模型的应用和重要性。</description>
+    </item>
+    
+    <item>
+      <title>用 Heptabase 实践 INKP 知识管理法</title>
+      <link>https://justgoidea.com/posts/2022-014/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-014/</guid>
+      <description>这篇文章介绍了作者如何使用 Heptabase 实践 INKP 知识管理法，构建起完整的知识体系。INKP 知识管理法的核心原则是以主题为重心，让知识流动起来。作者在 heptabase 中使用 Journal 作为 Inbox，Card 作为 Note，Whiteboard 作为 Knowledge，通过 DIKW 模型将数据提炼成智慧，形成完整的知识体系。</description>
+    </item>
+    
+    <item>
+      <title>用 Heptabase 实践间歇日记</title>
+      <link>https://justgoidea.com/posts/2022-013/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-013/</guid>
+      <description>本文介绍了间歇日记的定义和写作方式，并分享了作者如何在 heptabase 上实践间歇日记。作者使用 heptabase 的 Journal 板块记录每天的待办事项和正在做的事情，将记录的内容转换为卡片，方便日后调用。作者认为间歇日记的实践有助于抓住灵感、织结碎片化的内容、保持知识与思维的颗粒度、训练思维的逻辑性和严谨性，以及消除拖延症。</description>
+    </item>
+    
+    <item>
+      <title>我的 Heptabase 使用体验</title>
+      <link>https://justgoidea.com/posts/2022-012/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-012/</guid>
+      <description>该文章介绍了作者使用 Heptabase 的体验。Heptabase 是一个卡片笔记知识库，支持卡片和白板的创建和管理。作者使用 Heptabase 进行知识沉淀和思考，并将其与其他软件如 DEVONthink 和 Notion 进行区分。作者希望 Heptabase 能够支持移动端和 web 端，以及导入 PDF 文件等功能。</description>
+    </item>
+    
+    <item>
+      <title>Cookie 的备份和有效期的修改</title>
+      <link>https://justgoidea.com/posts/2022-010/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-010/</guid>
+      <description>本文介绍了备份 Cookie 的重要性以及如何利用浏览器插件 EditThisCookie 进行 Cookie 的备份和有效期修改。通过备份 Cookie，可以在某些特殊情况下正常访问需要登录的网站。</description>
+    </item>
+    
+    <item>
+      <title>用 DEVONthink 重构阅读写作流</title>
+      <link>https://justgoidea.com/posts/2022-011/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-011/</guid>
+      <description>本文介绍了作者在寻找最适合自己的稍后读和文件管理软件的过程中，最终选择了 DEVONthink 和 DEVONthink to go，并重构了自己的阅读写作流。作者认为，只有适合自己的工具才是好的工具，而工具参与流程时，不必榨干其所有效能，用好某几个方面就够了。</description>
+    </item>
+    
+    <item>
+      <title>提升搜索效率的小技巧</title>
+      <link>https://justgoidea.com/posts/2022-007/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-007/</guid>
+      <description>本文介绍了三个提升搜索效率的小技巧。首先是选择合适的搜索引擎，其次是利用关键词，最后是特定符号与限定词。</description>
+    </item>
+    
+    <item>
+      <title>高速公路上发生意外该如何应对？怎样确认自己的所在点位？</title>
+      <link>https://justgoidea.com/posts/2022-006/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-006/</guid>
+      <description>在高速公路上发生交通意外时，按照交警部门规定的标准化动作操作，包括开启危险报警闪光灯、组织车上人员撤离至护栏外、摆放三角警示牌等。路面中间的白色虚线加一个空格为15米，将三角警示牌摆放在150米处，大约需要走十格左右。高速公路上每隔一公里就会有一个公里牌，每间隔一百米就会有一个百米牌，拨打报警或救助电话时，按照牌子上的信息正确报出当前准确位置，交警就能非常准确的找到所在的位置了。</description>
+    </item>
+    
+    <item>
+      <title>利用 NotionNext 快速部署博客系统</title>
+      <link>https://justgoidea.com/posts/2022-005/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-005/</guid>
+      <description>NotionNext是一个开源的博客生成器，可以将Notion笔记渲染成静态博客并托管在Vercel云服务中。它具有快速秒开、自动增量式更新、全功能、美观自定义、多主题切换等特点，同时支持自定义域名和Hexo主题封面文字修改。NotionNext的部署方式简便易行，只需要通过Vercel一键部署即可。</description>
+    </item>
+    
+    <item>
+      <title>利用 Notion 搭建个人站点</title>
+      <link>https://justgoidea.com/posts/2022-004/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justgoidea.com/posts/2022-004/</guid>
+      <description>本文介绍了如何使用Cloudflare的Web Workers为Notion的公开页面进行域名的自定义，从而实现利用Notion搭建个人站点。</description>
+    </item>
+    
+  </channel>
+</rss>
