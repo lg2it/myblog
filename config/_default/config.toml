@@ -9,6 +9,8 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 140
 
+timeZone = "Asia/Shanghai"
+
 [outputs]
   home = ["HTML", "Atom", "JSON"]
   [outputFormats.Atom]

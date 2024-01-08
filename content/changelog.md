@@ -6,6 +6,10 @@ slug: "changelog"
 layout: "simple"
 ---
 
+## 2024-01-09
+
+修改时区为 "Asia/Shanghai"
+
 ## 2024-01-04
 
 为方便修改 Now 页面，将其移至常青笔记中，并修改 footer 的导航链接至常青笔记中的 [Now](https://note.justgoidea.com/#Now:Now)。
